@@ -4,6 +4,7 @@ import pandas as pd
 from typing import List, Dict, Tuple
 from collections import defaultdict
 import random
+import os
 
 class VNAdminQAGenerator:
     """Generate Q&A dataset from Vietnamese administrative procedure texts"""
@@ -495,7 +496,12 @@ class VNAdminQAGenerator:
     
     def save_dataset(self, df: pd.DataFrame, output_prefix: str = 'vn_admin_qa'):
         """Save dataset in multiple formats"""
-        
+
+        # Tạo các thư mục cần thiết
+        os.makedirs('data/processed/csv', exist_ok=True)
+        os.makedirs('data/processed/json', exist_ok=True)
+        os.makedirs('reports', exist_ok=True)
+
         # Split dataset
         splits = self.split_dataset(df)
         
@@ -504,40 +510,46 @@ class VNAdminQAGenerator:
         print(f"\n{stats_report}")
         
         # Save statistics to file
-        with open(f'{output_prefix}_statistics.txt', 'w', encoding='utf-8') as f:
+        stats_filepath = os.path.join('reports', f'{output_prefix}_statistics.txt')
+        with open(stats_filepath, 'w', encoding='utf-8') as f:
             f.write(stats_report)
+
+        # Define file paths
+        csv_full_filepath = os.path.join('data/processed/csv', f'{output_prefix}_full.csv')
+        json_full_filepath = os.path.join('data/processed/json', f'{output_prefix}_full.json')
         
         # Save full dataset
-        df.to_csv(f'{output_prefix}_full.csv', index=False, encoding='utf-8-sig')
-        df.to_json(f'{output_prefix}_full.json', orient='records', 
+        df.to_csv(csv_full_filepath, index=False, encoding='utf-8-sig')
+        df.to_json(json_full_filepath, orient='records', 
                    force_ascii=False, indent=2)
         
         # Save splits
+        hf_dataset = {}
         for split_name, split_df in splits.items():
             # CSV
-            split_df.to_csv(f'{output_prefix}_{split_name}.csv', 
+            csv_split_filepath = os.path.join('data/processed/csv', f'{output_prefix}_{split_name}.csv')
+            split_df.to_csv(csv_split_filepath, 
                            index=False, encoding='utf-8-sig')
             # JSON
-            split_df.to_json(f'{output_prefix}_{split_name}.json', 
+            json_split_filepath = os.path.join('data/processed/json', f'{output_prefix}_{split_name}.json')
+            split_df.to_json(json_split_filepath, 
                             orient='records', force_ascii=False, indent=2)
+
+            # For Hugging Face format
+            hf_dataset[split_name] = split_df.to_dict('records')
         
         # Save in Hugging Face Dataset format
-        hf_dataset = {
-            'train': splits['train'].to_dict('records'),
-            'validation': splits['validation'].to_dict('records'),
-            'test': splits['test'].to_dict('records')
-        }
-        with open(f'{output_prefix}_hf_format.json', 'w', encoding='utf-8') as f:
+        hf_filepath = os.path.join('data/processed/json', f'{output_prefix}_hf_format.json')
+        with open(hf_filepath, 'w', encoding='utf-8') as f:
             json.dump(hf_dataset, f, ensure_ascii=False, indent=2)
         
         print(f"\n💾 FILES SAVED:")
-        print(f"  ✅ {output_prefix}_full.csv")
-        print(f"  ✅ {output_prefix}_full.json")
-        print(f"  ✅ {output_prefix}_train.csv/json")
-        print(f"  ✅ {output_prefix}_validation.csv/json")
-        print(f"  ✅ {output_prefix}_test.csv/json")
-        print(f"  ✅ {output_prefix}_hf_format.json")
-        print(f"  ✅ {output_prefix}_statistics.txt")
+        print(f"  ✅ {csv_full_filepath}")
+        print(f"  ✅ {json_full_filepath}")
+        print(f"  ✅ data/processed/csv/{output_prefix}_train.csv, validation.csv, test.csv")
+        print(f"  ✅ data/processed/json/{output_prefix}_train.json, validation.json, test.json")
+        print(f"  ✅ {hf_filepath}")
+        print(f"  ✅ {stats_filepath}")
 
 
 # ============ USAGE EXAMPLE ============
@@ -548,8 +560,8 @@ if __name__ == "__main__":
     
     # Define file paths
     files = {
-        'lyhon': 'lyhon.txt',
-        'kethon': 'kethon.txt'
+        'lyhon': 'data/raw/lyhon.txt',
+        'kethon': 'data/raw/kethon.txt'
     }
     
     # Process files and generate dataset
