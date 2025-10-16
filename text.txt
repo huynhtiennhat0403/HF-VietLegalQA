@@ -1,0 +1,37 @@
+### Tóm tắt nội dung đã học trong “LLM – Hugging Face”
+
+- Transformer và kiến trúc
+    - Ba họ mô hình: encoder-only (BERT) cho phân loại, NER, QA trích xuất; decoder-only (GPT) cho sinh văn bản, QA tạo sinh; encoder–decoder (BART) cho dịch, sửa ngữ pháp, tóm tắt, QA tạo sinh.
+    - Cơ chế attention và tối ưu hóa cho chuỗi dài: LSH attention (Reformer), local attention (Longformer), axial positional encodings.[[1]](https://www.notion.so/LLM-Hugging-Face-27d385efe63b8081a3b3f027410d9ef7?pvs=21)
+- Suy luận (inference) với LLMs
+    - Khái niệm context length và các yếu tố ảnh hưởng.
+    - Quy trình hai pha: Prefill (tokenize → embed → xử lý ngữ cảnh ban đầu) và Decode (tự hồi quy: attention → phân phối xác suất → chọn token → dừng).
+    - Chiến lược sampling: temperature, top‑k/top‑p, phạt lặp lại (frequency, presence), kiểm soát độ dài bằng giới hạn token, stop sequences, EOS.[[2]](https://www.notion.so/LLM-Hugging-Face-27d385efe63b8081a3b3f027410d9ef7?pvs=21)
+- Sử dụng 🤗 Transformers
+    - Pipeline và thành phần tokenizer: chuyển văn bản → token, thêm special tokens, ánh xạ sang ID.
+    - Lưu/tải mô hình: config.json và model.safetensors; đẩy mô hình lên Hub bằng notebook_login/huggingface‑cli và push_to_hub.
+    - Thực hành tokenizer: padding, truncation, decode/encode ví dụ với BERT.[[3]](https://www.notion.so/LLM-Hugging-Face-27d385efe63b8081a3b3f027410d9ef7?pvs=21)
+- Các kiểu tokenizer và so sánh
+    - Word‑based, character‑based, subword (Byte‑level BPE, WordPiece, SentencePiece/Unigram): ưu nhược điểm, ví dụ minh họa.
+    - Xử lý batch đa độ dài: padding đúng cách, attention mask để tránh mô hình “học” từ padding; trả về tensor PyTorch/NumPy; cấu hình padding “longest”, “max_length”, truncation.[[4]](https://www.notion.so/LLM-Hugging-Face-27d385efe63b8081a3b3f027410d9ef7?pvs=21)
+- 🤗 Datasets: nạp, làm sạch và biến đổi dữ liệu
+    - Nạp local/remote, lấy mẫu, kiểm tra trùng lặp, đổi tên cột.
+    - Làm sạch: chuẩn hóa nhãn, tạo đặc trưng (ví dụ review_length), lọc outliers, giải mã HTML.
+    - Map batched để tăng tốc; số liệu benchmark fast vs. slow tokenizer khi batched.[[5]](https://www.notion.so/LLM-Hugging-Face-27d385efe63b8081a3b3f027410d9ef7?pvs=21)
+- 🤗 Tokenizers chuyên sâu
+    - Huấn luyện tokenizer mới từ tokenizer cũ bằng AutoTokenizer.train_new_from_iterator, lưu và chia sẻ lên Hub.
+    - Fast tokenizer (Rust) vs. slow (Python): tốc độ và tính năng nâng cao như BatchEncoding, tokens(), word_ids(), offset mapping, sentence_ids().
+    - Chuẩn hóa và pre‑tokenization; tổng quan thuật toán subword (BPE, WordPiece, Unigram) và cách hoạt động khi train và khi tokenize (ví dụ xử lý [UNK], tiền tố ## của WordPiece).[[6]](https://www.notion.so/LLM-Hugging-Face-27d385efe63b8081a3b3f027410d9ef7?pvs=21)
+- Fine‑tuning và các bài toán NLP cổ điển
+    - Token classification (NER, POS): căn chỉnh nhãn với subword, gán -100 cho special tokens.
+    - Domain adaptation với Masked LM: concat và chunk dữ liệu, DataCollatorForLanguageModeling, đánh giá perplexity.
+    - Dịch máy: pipeline, tiền xử lý với text_target, DataCollatorForSeq2Seq, đánh giá SacreBLEU.
+    - Tóm tắt: chọn tập, lọc dữ liệu, tiền xử lý tokenizer cho tiêu đề và ngữ cảnh.
+    - Huấn luyện causal LM từ đầu và Q&A: tài liệu, liên kết tham khảo trên Hub.[[7]](https://www.notion.so/LLM-Hugging-Face-27d385efe63b8081a3b3f027410d9ef7?pvs=21)
+- Kết luận thực hành chính
+    - Hiểu kiến trúc Transformer và ảnh hưởng của context length đến inference.
+    - Làm chủ tokenizer và dữ liệu: padding, masks, truncation, batching.
+    - Quy trình end‑to‑end với hệ sinh thái HF: Datasets → Tokenizers → Transformers → Hub.
+    - Fine‑tuning theo bài toán và theo miền dữ liệu, đánh giá bằng thước đo phù hợp (perplexity, BLEU, v.v.).[[8]](https://www.notion.so/LLM-Hugging-Face-27d385efe63b8081a3b3f027410d9ef7?pvs=21)
+
+Bạn muốn mình rút gọn hơn thành “cheat sheet” 1 trang, hay nhấn mạnh vào phần bạn sẽ áp dụng ngay như tokenization hay fine‑tuning?

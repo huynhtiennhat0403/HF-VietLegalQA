@@ -1,0 +1,55 @@
+======================================================================
+📊 DATASET STATISTICS REPORT
+======================================================================
+
+📈 OVERALL STATISTICS:
+  Total samples: 170
+  Unique questions: 88
+
+📂 CATEGORY DISTRIBUTION:
+  ly_hon: 89 (52.4%)
+  ket_hon: 81 (47.6%)
+
+🏗️ LAYER DISTRIBUTION:
+  Layer 1: 104 (61.2%)
+  Layer 2: 60 (35.3%)
+  Layer 3: 6 (3.5%)
+
+📝 ANSWER TYPE DISTRIBUTION:
+  full: 82 (48.2%)
+  summary: 82 (48.2%)
+  overview: 6 (3.5%)
+
+🎯 INTENT DISTRIBUTION:
+  general: 40 (23.5%)
+  conditions: 30 (17.6%)
+  location: 22 (12.9%)
+  rights: 22 (12.9%)
+  documents: 16 (9.4%)
+  duration: 16 (9.4%)
+  procedure: 16 (9.4%)
+  cost: 8 (4.7%)
+
+⭐ DIFFICULTY DISTRIBUTION:
+  medium: 116 (68.2%)
+  hard: 34 (20.0%)
+  easy: 20 (11.8%)
+
+📏 ANSWER LENGTH STATISTICS (words):
+  Mean: 145.2
+  Median: 99.0
+  Min: 37
+  Max: 443
+
+✂️ TRAIN/VAL/TEST SPLIT:
+  train: 118 samples
+    - ly_hon: 62
+    - ket_hon: 56
+  validation: 26 samples
+    - ly_hon: 14
+    - ket_hon: 12
+  test: 26 samples
+    - ly_hon: 13
+    - ket_hon: 13
+
+======================================================================

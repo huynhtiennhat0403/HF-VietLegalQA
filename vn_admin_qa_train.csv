@@ -1,0 +1,822 @@
+﻿question,answer,answer_type,category,main_topic,main_topic_id,subtopic,subtopic_id,intent,difficulty,layer,answer_word_count
+Nộp hồ sơ đến đâu?,"- Nếu nộp trực tuyến, người có yêu cầu có thể truy cập Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công cấp tỉnh.
+- Nếu chọn nộp trực tiếp, người yêu cầu đăng ký cần nộp hồ sơ đăng ký kết hôn tại Trung tâm Phục vụ hành chính công có thẩm quyền.
+
+Theo Nghị định 120/2025/NĐ-CP có hiệu lực từ 01/7/2025 đến 01/03/2027 quy định công chức tư pháp - hộ tịch cấp xã chính thức đảm nhận toàn bộ nhiệm vụ đăng ký hộ tịch mà trước đây do phòng tư pháp cấp huyện và công chức hộ tịch cấp huyện thực hiện. Một số thủ tục đăng ký hộ tịch như: Thủ tục đăng ký khai sinh; Thủ tục đăng ký kết hôn (bao gồm kết hôn có yếu tố nước ngoài)....",full,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,Nộp hồ sơ đến đâu?,2.2,documents,medium,1,138
+Cho tôi biết nộp hồ sơ đến đâu?,"- Nếu nộp trực tuyến, người có yêu cầu có thể truy cập Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công cấp tỉnh. - Nếu chọn nộp trực tiếp, người yêu cầu đăng ký cần nộp hồ sơ đăng ký kết hôn tại Trung tâm Phục vụ hành chính công có thẩm quyền.",summary,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,Nộp hồ sơ đến đâu?,2.2,documents,medium,1,56
+"Cho tôi biết mất đăng ký kết hôn, đăng ký lại được không?","Căn cứ Điều 24 Nghị định 123/2015/NĐ/CP quy định điều kiện đăng ký lại khai sinh, kết hôn, khai tử như sau:
+
+- Việc khai sinh, kết hôn, khai tử đã được đăng ký tại cơ quan có thẩm quyền của Việt Nam trước ngày 01/01/2016 nhưng Sổ hộ tịch và bản chính giấy tờ hộ tịch đều bị mất thì được đăng ký lại. - Người yêu cầu đăng ký lại khai sinh, kết hôn, khai tử có trách nhiệm nộp đầy đủ bản sao giấy tờ, tài liệu có nội dung liên quan đến việc đăng ký lại.",summary,ket_hon,"Mất đăng ký kết hôn, đăng ký lại được không?",6,,,general,medium,2,100
+Xin hướng dẫn đăng ký kết hôn được cấp mấy bản?,"Theo khoản 7 Điều 4 Luật Hộ tịch, giấy chứng nhận kết hôn là văn bản do cơ quan Nhà nước có thẩm quyền cấp cho hai bên nam, nữ khi đăng ký kết hôn. Nếu hai bên nam, nữ đủ điều kiện kết hôn, sau khi nam, nữ cùng ký, ghi rõ họ tên trong Sổ hộ tịch, Giấy chứng nhận kết hôn, mỗi bên vợ, chồng được cấp 01 bản chính Giấy chứng nhận theo khoản 3 Điều 18 Nghị định 123/2015/NĐ-CP.",summary,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,Đăng ký kết hôn được cấp mấy bản?,2.5,general,medium,1,84
+Xin hướng dẫn đăng ký kết hôn có ủy quyền được không?,"Điều 18 Luật Hộ tịch năm 2014 khẳng định “hai bên nam, nữ cùng có mặt khi đăng ký kết hôn”.
+
+Đồng thời, khoản 1 Điều 2 Thông tư 04/2020/TT-BTP quy định, người yêu cầu đăng ký hộ tịch được ủy quyền cho người khác thực hiện thay trừ trường hợp: Đăng ký kết hôn, đăng ký lại việc kết hôn… thì không được ủy quyền nhưng một bên có thể trực tiếp nộp hồ sơ tại cơ quan đăng ký mà không cần văn bản ủy quyền của bên còn lại.
+
+Theo quy định hiện hành, đăng ký kết hôn là một trong những thủ tục không thể ủy quyền. Tuy nhiên, nếu một trong hai bên không thể đến nộp hồ sơ trực tiếp thì người còn lại có thể thực hiện thay mà không cần văn bản ủy quyền.
+
+Đồng thời, khoản 5 Điều 3 Thông tư 04/2020/TT-BTP nêu rõ khi trả kết quả đăng ký kết hôn, đăng ký lại kết hôn, cả hai bên nam, nữ phải có mặt.
+
+Như vậy, có thể hiểu việc đăng ký kết hôn không thể ủy quyền thực hiện cũng như khi nhận kết quả. Tuy nhiên, một trong hai người có thể nộp hồ sơ thay người còn lại mà không cần văn bản ủy quyền.",full,ket_hon,Đăng ký kết hôn có ủy quyền được không?,4,,,rights,medium,2,218
+"Mình có thể mất đăng ký kết hôn, đăng ký lại  không không?","Căn cứ Điều 24 Nghị định 123/2015/NĐ/CP quy định điều kiện đăng ký lại khai sinh, kết hôn, khai tử như sau:
+
+- Việc khai sinh, kết hôn, khai tử đã được đăng ký tại cơ quan có thẩm quyền của Việt Nam trước ngày 01/01/2016 nhưng Sổ hộ tịch và bản chính giấy tờ hộ tịch đều bị mất thì được đăng ký lại.
+
+- Người yêu cầu đăng ký lại khai sinh, kết hôn, khai tử có trách nhiệm nộp đầy đủ bản sao giấy tờ, tài liệu có nội dung liên quan đến việc đăng ký lại.
+
+- Việc đăng ký lại khai sinh, kết hôn chỉ được thực hiện nếu người yêu cầu đăng ký còn sống vào thời điểm tiếp nhận hồ sơ.
+
+Như vậy, mất giấy đăng ký kết hôn chỉ được xin cấp lại nếu đáp ứng đủ 2 điều kiện:
+
+- Đã đăng ký kết hôn tại cơ quan có thẩm quyền của Việt Nam trước ngày 01/01/2016.
+
+- Sổ đăng ký kết hôn tại cơ quan đăng ký hộ tịch và giấy đăng ký kết hôn của người yêu cầu cấp lại giấy đăng ký kết hôn đều bị mất.
+
+Trường hợp không đủ điều kiện thì UBND cấp xã sẽ từ chối cấp lại giấy đăng ký kết hôn và chỉ có thể xin cấp bản sao trích lục kết hôn.",full,ket_hon,"Mất đăng ký kết hôn, đăng ký lại được không?",6,,,general,medium,2,231
+Vấn đề nộp án phí khi ly hôn?,"Theo Nghị quyết 326/2016/NQ-UBTVQH14, mức án phí khi ly hôn cụ thể như sau:
+
+- Án phí cho một vụ việc ly hôn không có tranh chấp về tài sản là 300.000 đồng;
+
+- Đối với những vụ việc có tranh chấp về tài sản thì ngoài mức án phí 300.000 đồng, đương sự còn phải chịu án phí với phần tài sản có tranh chấp, được xác định theo giá trị tài sản tranh chấp.",summary,ly_hon,Vấn đề nộp án phí khi ly hôn,5,,,location,easy,2,76
+Ai có quyền yêu cầu ly hôn?,"Theo quy định của Luật Hôn nhân và Gia đình, ly hôn là việc chấm dứt quan hệ vợ chồng theo bản án, quyết định có hiệu lực pháp luật của Tòa án. Do đó, để được ly hôn, các cặp vợ, chồng phải xác định được ai là người có quyền yêu cầu ly hôn. Đồng thời, tại Điều 51 Luật Hôn nhân và gia đình năm 2014, người có quyền yêu cầu giải quyết ly hôn gồm:
+
+Vợ, chồng hoặc cả hai người có quyền yêu cầu Tòa án giải quyết ly hôn.",summary,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Ai có quyền yêu cầu ly hôn?,1.1,rights,medium,1,95
+Vấn đề nộp án phí khi ly hôn?,"Theo Nghị quyết 326/2016/NQ-UBTVQH14, mức án phí khi ly hôn cụ thể như sau:
+
+- Án phí cho một vụ việc ly hôn không có tranh chấp về tài sản là 300.000 đồng;
+
+- Đối với những vụ việc có tranh chấp về tài sản thì ngoài mức án phí 300.000 đồng, đương sự còn phải chịu án phí với phần tài sản có tranh chấp, được xác định theo giá trị tài sản tranh chấp.",full,ly_hon,Vấn đề nộp án phí khi ly hôn,5,,,location,easy,2,76
+Thủ tục đăng ký kết hôn khi vợ/chồng mất tích như thế nào?,"Một người chỉ được công nhận là mất tích khi được Tòa án ra quyết định tuyên bố người đó mất tích (căn cứ Điều 68 Bộ luật Dân sự năm 2015). Tuy nhiên, khi đó, quan hệ hôn nhân giữa người bị tuyên bố là mất tích với người vợ hoặc chồng của người đó vẫn tồn tại.
+
+Mà theo quy định Luật Hôn nhân và Gia đình 2014, việc kết hôn hoặc chung sống như vợ chồng với người đang có vợ, đang có chồng là hành vi bị cấm.
+
+Bởi vậy, nếu vợ/chồng người bị tuyên bố mất tích muốn đăng ký kết hôn với người khác thì bắt buộc phải có yêu cầu ly hôn thì Tòa án căn cứ vào quy định dưới đây để giải quyết:
+
+“Trong trường hợp vợ hoặc chồng của người bị Tòa án tuyên bố mất tích yêu cầu ly hôn thì Tòa án giải quyết cho ly hôn”.
+
+Như vậy, khi vợ hoặc chồng mất tích, nếu người còn lại muốn kết hôn với người khác thì phải đồng thời thực hiện 03 thủ tục sau đây:
+
+- Yêu cầu Tòa án tuyên bố một người mất tích;
+
+- Yêu cầu Tòa án giải quyết ly hôn với người đã bị tuyên bố mất tích;
+
+- Thực hiện thủ tục đăng ký kết hôn (lần 02).",full,ket_hon,Thủ tục đăng ký kết hôn khi vợ/chồng mất tích,3,,,procedure,medium,2,227
+Cho tôi biết nộp hồ sơ đến đâu?,"- Nếu nộp trực tuyến, người có yêu cầu có thể truy cập Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công cấp tỉnh.
+- Nếu chọn nộp trực tiếp, người yêu cầu đăng ký cần nộp hồ sơ đăng ký kết hôn tại Trung tâm Phục vụ hành chính công có thẩm quyền.
+
+Theo Nghị định 120/2025/NĐ-CP có hiệu lực từ 01/7/2025 đến 01/03/2027 quy định công chức tư pháp - hộ tịch cấp xã chính thức đảm nhận toàn bộ nhiệm vụ đăng ký hộ tịch mà trước đây do phòng tư pháp cấp huyện và công chức hộ tịch cấp huyện thực hiện. Một số thủ tục đăng ký hộ tịch như: Thủ tục đăng ký khai sinh; Thủ tục đăng ký kết hôn (bao gồm kết hôn có yếu tố nước ngoài)....",full,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,Nộp hồ sơ đến đâu?,2.2,documents,medium,1,138
+Tổng quan về hướng dẫn chi tiết thủ tục ly hôn?,"Hướng dẫn chi tiết thủ tục ly hôn bao gồm:
+
+1. Ai có quyền yêu cầu ly hôn?: Theo quy định của Luật Hôn nhân và Gia đình, ly hôn là việc chấm dứt quan hệ vợ chồng theo bản án, quyết định có hiệu lực pháp luật của Tòa án.
+
+2. Điều kiện để được yêu cầu ly hôn: Hiện nay, có hai hình thức ly hôn là ly hôn thuận tình và một bên gửi yêu cầu đơn phương ly hôn. Do đó, với mỗi loại hình thì sẽ yêu cầu điều kiện khác nhau.
+
+3. Chuẩn bị các loại giấy tờ gì để ly hôn?: Về cơ bản thì các loại giấy tờ dùng trong trường hợp đơn phương ly hôn hoặc thuận tình ly hôn đều giống nhau.
+
+4. Nộp đơn ly hôn ở đâu?: Theo quy định tại Điều 35 Bộ luật Tố tụng dân sự năm 2015 sửa đổi, bổ sung bởi khoản 2 Điều 1 Luật 85/2025/QH15, Tòa án nhân dân khu vực là nơi có thẩm quyền giải quyết thủ tục ly hôn cấp sơ thẩm.
+
+5. Mua đơn ly hôn ở đâu?: Hiện nay, khi ly hôn đơn phương, vợ, chồng sử dụng mẫu đơn khởi kiện và khi ly hôn thuận tình, vợ, chồng sử dụng mẫu đơn yêu cầu giải quyết việc dân sự được ban hành kèm Nghị quyết 01/2017/NQ-HĐTP.
+
+6. Ly hôn nhanh nhất là bao lâu?: Cũng theo quy định của Bộ luật Tố tụng dân sự, thời gian giải quyết của một vụ ly hôn thuận tình kéo dài khoảng 02 - 03 tháng, kể từ ngày Tòa án thụ lý đơn.
+
+7. Quy trình ly hôn: - Đối với ly hôn đơn phương: Quy trình sẽ được thực hiện theo các bước sau đây:
+
+ Bước 1: Thụ lý đơn ly hôn (đơn khởi kiện).",overview,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,,,general,medium,3,310
+Cho tôi biết mua đơn ly hôn ở đâu?,"Hiện nay, khi ly hôn đơn phương, vợ, chồng sử dụng mẫu đơn khởi kiện và khi ly hôn thuận tình, vợ, chồng sử dụng mẫu đơn yêu cầu giải quyết việc dân sự được ban hành kèm Nghị quyết 01/2017/NQ-HĐTP. Tuy nhiên, tại Nghị quyết này, Hội đồng Thẩm phán không yêu cầu đơn ly hôn phải sử dụng hình thức nào. Do đó, vợ, chồng muốn ly hôn, hoàn toàn có thể sử dụng đơn ly hôn viết tay, đánh máy, mua tại Tòa án hoặc download biểu mẫu trên mạng và tự in.",summary,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Mua đơn ly hôn ở đâu?,1.5,location,easy,1,96
+"Mình muốn hỏi hiện nay, có thể đăng ký kết hôn qua mạng?","Hiện nay, với sự phát triển của khoa học kỹ thuật, nhiều địa phương đã tiến hành thực hiện thủ tục hành chính qua mạng. Theo đó, để thực hiện việc đăng ký kết hôn qua mạng, công dân tại tỉnh, thành nào sẽ truy cập vào Cổng dịch vụ công trực tuyến của tỉnh đó để thực hiện các thao tác đăng ký.
+Sau khi đăng ký qua mạng thành công, các cặp đôi phải chú ý tin nhắn hoặc email để liên tục cập nhật tình hình hồ sơ của mình và xác nhận lại thông tin.
+
+Lưu ý: Khi đi lấy kết quả, cặp đôi nam nữ phải cùng có mặt, mang đầy đủ bản chính để kiểm tra, đối chiếu và ký vào Tờ khai cũng như Giấy chứng nhận kết hôn và Sổ hộ tịch.",full,ket_hon,"Hiện nay, có thể đăng ký kết hôn qua mạng?",7,,,general,medium,2,140
+Lệ phí đăng ký kết hôn là bao nhiêu?,"Nếu đăng ký kết hôn của công dân Việt Nam cư trú trong nước thì được miễn lệ phí đăng ký kết hôn theo quy định tại Điều 11 Luật Hộ tịch 2014. Tuy nhiên, có nhu cầu cấp bản sao Giấy chứng nhận kết hôn thì lệ phí là 8.000 đồng/bản sao.",full,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,Lệ phí đăng ký kết hôn là bao nhiêu?,2.4,cost,medium,1,53
+Mình muốn hỏi lệ phí đăng ký kết hôn là bao nhiêu?,"Nếu đăng ký kết hôn của công dân Việt Nam cư trú trong nước thì được miễn lệ phí đăng ký kết hôn theo quy định tại Điều 11 Luật Hộ tịch 2014. Tuy nhiên, có nhu cầu cấp bản sao Giấy chứng nhận kết hôn thì lệ phí là 8.000 đồng/bản sao.",summary,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,Lệ phí đăng ký kết hôn là bao nhiêu?,2.4,cost,medium,1,53
+"Xin hướng dẫn mất đăng ký kết hôn, đăng ký lại được không?","Căn cứ Điều 24 Nghị định 123/2015/NĐ/CP quy định điều kiện đăng ký lại khai sinh, kết hôn, khai tử như sau:
+
+- Việc khai sinh, kết hôn, khai tử đã được đăng ký tại cơ quan có thẩm quyền của Việt Nam trước ngày 01/01/2016 nhưng Sổ hộ tịch và bản chính giấy tờ hộ tịch đều bị mất thì được đăng ký lại.
+
+- Người yêu cầu đăng ký lại khai sinh, kết hôn, khai tử có trách nhiệm nộp đầy đủ bản sao giấy tờ, tài liệu có nội dung liên quan đến việc đăng ký lại.
+
+- Việc đăng ký lại khai sinh, kết hôn chỉ được thực hiện nếu người yêu cầu đăng ký còn sống vào thời điểm tiếp nhận hồ sơ.
+
+Như vậy, mất giấy đăng ký kết hôn chỉ được xin cấp lại nếu đáp ứng đủ 2 điều kiện:
+
+- Đã đăng ký kết hôn tại cơ quan có thẩm quyền của Việt Nam trước ngày 01/01/2016.
+
+- Sổ đăng ký kết hôn tại cơ quan đăng ký hộ tịch và giấy đăng ký kết hôn của người yêu cầu cấp lại giấy đăng ký kết hôn đều bị mất.
+
+Trường hợp không đủ điều kiện thì UBND cấp xã sẽ từ chối cấp lại giấy đăng ký kết hôn và chỉ có thể xin cấp bản sao trích lục kết hôn.",full,ket_hon,"Mất đăng ký kết hôn, đăng ký lại được không?",6,,,general,medium,2,231
+Hướng dẫn về quy trình ly hôn?,"- Đối với ly hôn đơn phương: Quy trình sẽ được thực hiện theo các bước sau đây:
+
+ Bước 1: Thụ lý đơn ly hôn (đơn khởi kiện). Vợ hoặc chồng - người muốn ly hôn đơn phương phải chuẩn bị đầy đủ hồ sơ, giấy tờ, tài liệu và chứng cứ về hành vi bạo lực gia đình (nếu có) của người còn lại để nộp cho Tòa án có thẩm quyền (đã nêu ở trên).
+
+Bước 2: Hòa giải. Sau khi nhận được đơn ly hôn đơn phương, Tòa án sẽ xem xét có nhận và thụ lý vụ án ly hôn không. Nếu xét thấy có căn cứ để xét đơn ly hôn đơn phương thì yêu cầu người nộp đơn nộp án phí tạm ứng và tiến hành hòa giải.
+
+Nếu hòa giải thành thì Tòa án ra quyết định công nhận hòa giải thành nếu không hòa giải được thì Tòa án đưa vụ án ra xét xử.
+
+Bước 3: Mở phiên tòa sơ thẩm. Sau khi xét xử, Tòa án sẽ ra bản án chấm dứt quan hệ hôn nhân giữa vợ và chồng.
+
+- Đối với ly hôn thuận tình: Ly hôn thuận tình sẽ được thực hiện theo các bước sau đây:
+
+Bước 1: Thụ lý đơn. Vợ và chồng chuẩn bị hồ sơ nêu trên và nộp hồ sơ đến Tòa án có thẩm quyền.
+
+Bước 2: Chuẩn bị xét đơn yêu cầu và mở phiên họp công khai để giải quyết việc yêu cầu công nhận thuận tình ly hôn. Trong giai đoạn này, Tòa án sẽ xem xét đơn ly hôn thuận tình, căn cứ để chấm dứt quan hệ hôn nhân và ra thông báo nộp lệ phí tạm ứng.
+
+Sau khi vợ, chồng nộp tạm ứng lệ phí thì Tòa án sẽ mở phiên họp công khai để giải quyết việc yêu cầu công nhận thuận tình ly hôn.
+
+Bước 3: Ra quyết định công nhận thuận tình ly hôn. Sau khi tiến hành hòa giải mà không thành thì Tòa án sẽ ra quyết định công nhận ly hôn. Ngược lại, nếu hòa giải thành thì Tòa án sẽ đình chỉ giải quyết việc dân sự.",full,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Quy trình ly hôn,1.7,procedure,hard,1,370
+Xin hướng dẫn phải đăng ký kết hôn trước khi làm đám cưới?,"Theo Điều 9 Luật Hôn nhân và Gia đình, quan hệ hôn nhân chỉ được công nhận và được bảo vệ khi đã thực hiện đầy đủ thủ tục đăng ký với cơ quan có thẩm quyền. Riêng hôn nhân giữa những người cùng giới tính thì Nhà nước không thừa nhận. Dù vậy, khi tổ chức đám cưới cần phải đáp ứng các điều kiện thực hiện nếp sống văn minh trong việc cưới hỏi tại địa phương như: Trang trọng, lành mạnh, giản dị, không mở nhạc trước 06 giờ sáng và sau 22 giờ đêm...",summary,ket_hon,Phải đăng ký kết hôn trước khi làm đám cưới?,5,,,conditions,easy,2,98
+Xin hướng dẫn phải đăng ký kết hôn trước khi làm đám cưới?,"Theo Điều 9 Luật Hôn nhân và Gia đình, quan hệ hôn nhân chỉ được công nhận và được bảo vệ khi đã thực hiện đầy đủ thủ tục đăng ký với cơ quan có thẩm quyền. Riêng hôn nhân giữa những người cùng giới tính thì Nhà nước không thừa nhận.
+
+Dù vậy, khi tổ chức đám cưới cần phải đáp ứng các điều kiện thực hiện nếp sống văn minh trong việc cưới hỏi tại địa phương như: Trang trọng, lành mạnh, giản dị, không mở nhạc trước 06 giờ sáng và sau 22 giờ đêm...",full,ket_hon,Phải đăng ký kết hôn trước khi làm đám cưới?,5,,,conditions,easy,2,98
+Cho tôi biết đăng ký kết hôn được cấp mấy bản?,"Theo khoản 7 Điều 4 Luật Hộ tịch, giấy chứng nhận kết hôn là văn bản do cơ quan Nhà nước có thẩm quyền cấp cho hai bên nam, nữ khi đăng ký kết hôn.
+
+Nếu hai bên nam, nữ đủ điều kiện kết hôn, sau khi nam, nữ cùng ký, ghi rõ họ tên trong Sổ hộ tịch, Giấy chứng nhận kết hôn, mỗi bên vợ, chồng được cấp 01 bản chính Giấy chứng nhận theo khoản 3 Điều 18 Nghị định 123/2015/NĐ-CP.
+
+Như vậy, có thể thấy, đăng ký kết hôn sẽ được cấp thành 02 bản chính cho mỗi bên vợ, chồng giữ 01 bản.",full,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,Đăng ký kết hôn được cấp mấy bản?,2.5,general,medium,1,108
+Cho tôi biết về giải quyết nợ chung khi ly hôn?,"Như phân tích ở trên, có hai hình thức ly hôn là ly hôn đơn phương và ly hôn thuận tình. Do đó, những vấn đề cần giải quyết của hai hình thức này cũng khác nhau. Tuy vậy, nhìn chung, khi các cặp vợ, chồng muốn chấm dứt quan hệ hôn nhân thường cũng muốn giải quyết vấn đề tài sản chung, con chung và một phần không thể thiếu là nợ chung.
+
+Theo đó, khoản 1 Điều 60 Luật Hôn nhân và Gia đình 2014 quy định:
+
+Quyền, nghĩa vụ tài sản của vợ chồng đối với người thứ ba vẫn có hiệu lực sau khi ly hôn, trừ trường hợp vợ chồng và người thứ ba có thỏa thuận khác.
+
+Do đó, nợ chung của vợ, chồng trong thời kỳ hôn nhân thì nếu chưa được Tòa án quyết định hoặc công nhận trong bản án, quyết định đã có hiệu lực pháp luật thì vẫn có hiệu lực dù hai vợ, chồng đã ly hôn. Và chỉ có trường hợp duy nhất, sau khi ly hôn hai vợ chồng không phải trả nợ đó là khi vợ, chồng và người thứ ba (người cho vay) có thỏa thuận khác.",full,ly_hon,Giải quyết nợ chung khi ly hôn,4,,,general,medium,2,203
+Hồ sơ cần chuẩn bị gồm những gì?,"* Kết hôn trong nước
+
+Theo Điều 18 Luật Hộ tịch 2014 quy định khi đăng ký kết hôn, hai bên nam, nữ cần chuẩn bị các giấy tờ sau:
+
+(1) Tờ khai đăng ký kết hôn, có thể dùng chung 1 tờ khai nếu nộp trực tiếp;
+
+(2) Giấy xác nhận tình trạng hôn nhân (bản chính) do UBND cấp xã có thẩm quyền cấp.",summary,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,Hồ sơ cần chuẩn bị gồm những gì?,2.1,conditions,hard,1,66
+Hướng dẫn về điều kiện để được yêu cầu ly hôn?,"Hiện nay, có hai hình thức ly hôn là ly hôn thuận tình và một bên gửi yêu cầu đơn phương ly hôn. Do đó, với mỗi loại hình thì sẽ yêu cầu điều kiện khác nhau. Cụ thể như sau:
+
+Điều kiện để ly hôn thuận tình
+
+- Hai bên thật sự tự nguyện ly hôn
+
+- Hai bên đã thỏa thuận về việc chia tài sản, quyền nuôi con, nghĩa vụ cấp dưỡng…
+
+Điều kiện để đơn phương ly hôn
+
+- Vợ, chồng có hành vi bạo lực gia đình
+
+- Khi một người vi phạm nghiêm trọng quyền, nghĩa vụ làm cho hôn nhân lâm vào tình trạng trầm trọng, đời sống chung không thể kéo dài;
+
+- Vợ hoặc chồng bị Tòa án tuyên bố mất tích;
+
+- Khi một người bị bệnh tâm thần hoặc bệnh khác đồng thời là nạn nhân của bạo lực gia đình do người còn lại gây nên.",full,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Điều kiện để được yêu cầu ly hôn,1.2,conditions,medium,1,158
+Cho tôi biết về quy trình ly hôn?,"- Đối với ly hôn đơn phương: Quy trình sẽ được thực hiện theo các bước sau đây:
+
+ Bước 1: Thụ lý đơn ly hôn (đơn khởi kiện). Vợ hoặc chồng - người muốn ly hôn đơn phương phải chuẩn bị đầy đủ hồ sơ, giấy tờ, tài liệu và chứng cứ về hành vi bạo lực gia đình (nếu có) của người còn lại để nộp cho Tòa án có thẩm quyền (đã nêu ở trên).
+
+Bước 2: Hòa giải. Sau khi nhận được đơn ly hôn đơn phương, Tòa án sẽ xem xét có nhận và thụ lý vụ án ly hôn không. Nếu xét thấy có căn cứ để xét đơn ly hôn đơn phương thì yêu cầu người nộp đơn nộp án phí tạm ứng và tiến hành hòa giải.
+
+Nếu hòa giải thành thì Tòa án ra quyết định công nhận hòa giải thành nếu không hòa giải được thì Tòa án đưa vụ án ra xét xử.
+
+Bước 3: Mở phiên tòa sơ thẩm. Sau khi xét xử, Tòa án sẽ ra bản án chấm dứt quan hệ hôn nhân giữa vợ và chồng.
+
+- Đối với ly hôn thuận tình: Ly hôn thuận tình sẽ được thực hiện theo các bước sau đây:
+
+Bước 1: Thụ lý đơn. Vợ và chồng chuẩn bị hồ sơ nêu trên và nộp hồ sơ đến Tòa án có thẩm quyền.
+
+Bước 2: Chuẩn bị xét đơn yêu cầu và mở phiên họp công khai để giải quyết việc yêu cầu công nhận thuận tình ly hôn. Trong giai đoạn này, Tòa án sẽ xem xét đơn ly hôn thuận tình, căn cứ để chấm dứt quan hệ hôn nhân và ra thông báo nộp lệ phí tạm ứng.
+
+Sau khi vợ, chồng nộp tạm ứng lệ phí thì Tòa án sẽ mở phiên họp công khai để giải quyết việc yêu cầu công nhận thuận tình ly hôn.
+
+Bước 3: Ra quyết định công nhận thuận tình ly hôn. Sau khi tiến hành hòa giải mà không thành thì Tòa án sẽ ra quyết định công nhận ly hôn. Ngược lại, nếu hòa giải thành thì Tòa án sẽ đình chỉ giải quyết việc dân sự.",full,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Quy trình ly hôn,1.7,procedure,hard,1,370
+Hướng dẫn về vấn đề nộp án phí khi ly hôn?,"Theo Nghị quyết 326/2016/NQ-UBTVQH14, mức án phí khi ly hôn cụ thể như sau:
+
+- Án phí cho một vụ việc ly hôn không có tranh chấp về tài sản là 300.000 đồng;
+
+- Đối với những vụ việc có tranh chấp về tài sản thì ngoài mức án phí 300.000 đồng, đương sự còn phải chịu án phí với phần tài sản có tranh chấp, được xác định theo giá trị tài sản tranh chấp.",summary,ly_hon,Vấn đề nộp án phí khi ly hôn,5,,,location,easy,2,76
+Xin hướng dẫn ly hôn nhanh nhất là bao lâu?,"Cũng theo quy định của Bộ luật Tố tụng dân sự, thời gian giải quyết của một vụ ly hôn thuận tình kéo dài khoảng 02 - 03 tháng, kể từ ngày Tòa án thụ lý đơn. Trong trường hợp đơn phương ly hôn, thời gian giải quyết kéo dài hơn, có thể từ 04 - 06 tháng. Trên thực tế, do có thể phát sinh những tranh chấp về quyền nuôi con, về tài sản thì thời gian giải quyết còn có thể kéo dài hơn.",summary,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Ly hôn nhanh nhất là bao lâu?,1.6,duration,medium,1,87
+Mình muốn hỏi thời gian cấp đăng ký kết hôn là bao lâu?,"Giấy chứng nhận kết hôn được cấp ngay sau khi cán bộ tư pháp nhận được đầy đủ hồ sơ hợp lệ và xét thấy đủ điều kiện kết hôn theo quy định (theo Điều 18 Nghị định 123/2015/NĐ-CP).
+
+Nếu thấy đủ điều kiện kết hôn, Điều 18 Luật Hộ tịch 2014 nêu rõ, cán bộ tư pháp ghi việc kết hôn vào Sổ hộ tịch. Hai bên nam nữ ký tên vào Sổ hộ tịch và Giấy chứng nhận đăng ký kết hôn.
+
+Đồng thời hai bên nam, nữ cùng ký vào Sổ đăng ký kết hôn và Giấy chứng nhận đăng ký kết hôn. Sau đó, cán bộ tư pháp báo cáo Chủ tịch UBND cấp xã trao Giấy chứng nhận kết hôn cho hai bên nam, nữ.
+
+Trong trường hợp nếu cần xác minh thêm các điều kiện kết hôn của hai bên nam, nữ thì thời hạn cấp Giấy chứng nhận kết hôn không quá 05 ngày làm việc.
+
+Do đó, có thể thấy thời hạn cấp Giấy đăng ký kết hôn là ngay sau khi hai bên được xét đủ điều kiện kết hôn và được UBND nơi có thẩm quyền thực hiện đăng ký kết hôn cấp Giấy chứng nhận đăng ký kết hôn.
+
+Riêng trường hợp có yếu tố nước ngoài, Sau khi ký Giấy chứng nhận đăng ký kết hôn, cán bộ làm công tác hộ tịch sẽ hướng dẫn hai bên kiểm tra nội dung trong Giấy chứng nhận kết hôn và Sổ đăng ký kết hôn. Thời gian từ lúc tiếp nhận đủ hồ sơ đến lúc nhận Giấy chứng nhận tối đa 13 ngày làm việc
+
+Đặc biệt: Nếu trong 60 ngày kể từ ngày ký mà hai bên không thể có mặt để nhận giấy chứng nhận đăng ký kết hôn thì Giấy này sẽ bị hủy. Nếu hai bên vẫn muốn kết hôn thì phải thực hiện thủ tục lại từ đầu.",full,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,Thời gian cấp đăng ký kết hôn là bao lâu?,2.3,duration,hard,1,325
+Mình muốn hỏi chuẩn bị các loại giấy tờ gì để ly hôn?,"Về cơ bản thì các loại giấy tờ dùng trong trường hợp đơn phương ly hôn hoặc thuận tình ly hôn đều giống nhau. Những giấy tờ cần thiết gồm:
+
+Đơn yêu cầu ly hôn (thuận tình hoặc đơn phương);
+Giấy đăng ký kết hôn (bản chính);
+Căn cước công dân/thẻ Căn cước của vợ và chồng (bản sao có chứng thực);
+Giấy khai sinh của các con (nếu có con chung, bản sao có chứng thực);
+Giấy tờ chứng minh quyền sở hữu đối với tài sản chung (nếu có tài sản chung, bản sao có chứng thực).
+Trường hợp không giữ Giấy chứng nhận kết hôn thì có thể liên hệ với cơ quan hộ tịch nơi đã đăng ký kết hôn để xin cấp bản sao.
+
+Trường hợp không có Căn cước công dân/thẻ Căn cước của vợ/chồng thì theo hướng dẫn của Tòa án để nộp giấy tờ tùy thân khác thay thế.
+
+Điểm khác biệt duy nhất giữa hai hình thức ly hôn này là ở nội dung của đơn ly hôn.
+
+* Nếu đơn phương ly hôn thì sẽ dùng Mẫu đơn xin ly hôn đơn phương được ban hành kèm theo Nghị quyết số 01/2017/NQ-HĐTP.
+
+* Nếu thuận tình ly hôn sẽ dùng Mẫu đơn xin ly hôn thuận tình.",full,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Chuẩn bị các loại giấy tờ gì để ly hôn?,1.3,documents,medium,1,217
+Mình muốn hỏi thời gian cấp đăng ký kết hôn là bao lâu?,"Giấy chứng nhận kết hôn được cấp ngay sau khi cán bộ tư pháp nhận được đầy đủ hồ sơ hợp lệ và xét thấy đủ điều kiện kết hôn theo quy định (theo Điều 18 Nghị định 123/2015/NĐ-CP). Nếu thấy đủ điều kiện kết hôn, Điều 18 Luật Hộ tịch 2014 nêu rõ, cán bộ tư pháp ghi việc kết hôn vào Sổ hộ tịch. Hai bên nam nữ ký tên vào Sổ hộ tịch và Giấy chứng nhận đăng ký kết hôn.",summary,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,Thời gian cấp đăng ký kết hôn là bao lâu?,2.3,duration,hard,1,84
+Chuẩn bị các loại giấy tờ gì để ly hôn?,"Về cơ bản thì các loại giấy tờ dùng trong trường hợp đơn phương ly hôn hoặc thuận tình ly hôn đều giống nhau. Những giấy tờ cần thiết gồm:
+
+Đơn yêu cầu ly hôn (thuận tình hoặc đơn phương);
+Giấy đăng ký kết hôn (bản chính);
+Căn cước công dân/thẻ Căn cước của vợ và chồng (bản sao có chứng thực);
+Giấy khai sinh của các con (nếu có con chung, bản sao có chứng thực);
+Giấy tờ chứng minh quyền sở hữu đối với tài sản chung (nếu có tài sản chung, bản sao có chứng thực).",summary,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Chuẩn bị các loại giấy tờ gì để ly hôn?,1.3,documents,medium,1,99
+Hướng dẫn chi tiết về hướng dẫn chi tiết thủ tục ly hôn?,"Hướng dẫn chi tiết thủ tục ly hôn bao gồm:
+
+1. Ai có quyền yêu cầu ly hôn?: Theo quy định của Luật Hôn nhân và Gia đình, ly hôn là việc chấm dứt quan hệ vợ chồng theo bản án, quyết định có hiệu lực pháp luật của Tòa án.
+
+2. Điều kiện để được yêu cầu ly hôn: Hiện nay, có hai hình thức ly hôn là ly hôn thuận tình và một bên gửi yêu cầu đơn phương ly hôn. Do đó, với mỗi loại hình thì sẽ yêu cầu điều kiện khác nhau.
+
+3. Chuẩn bị các loại giấy tờ gì để ly hôn?: Về cơ bản thì các loại giấy tờ dùng trong trường hợp đơn phương ly hôn hoặc thuận tình ly hôn đều giống nhau.
+
+4. Nộp đơn ly hôn ở đâu?: Theo quy định tại Điều 35 Bộ luật Tố tụng dân sự năm 2015 sửa đổi, bổ sung bởi khoản 2 Điều 1 Luật 85/2025/QH15, Tòa án nhân dân khu vực là nơi có thẩm quyền giải quyết thủ tục ly hôn cấp sơ thẩm.
+
+5. Mua đơn ly hôn ở đâu?: Hiện nay, khi ly hôn đơn phương, vợ, chồng sử dụng mẫu đơn khởi kiện và khi ly hôn thuận tình, vợ, chồng sử dụng mẫu đơn yêu cầu giải quyết việc dân sự được ban hành kèm Nghị quyết 01/2017/NQ-HĐTP.
+
+6. Ly hôn nhanh nhất là bao lâu?: Cũng theo quy định của Bộ luật Tố tụng dân sự, thời gian giải quyết của một vụ ly hôn thuận tình kéo dài khoảng 02 - 03 tháng, kể từ ngày Tòa án thụ lý đơn.
+
+7. Quy trình ly hôn: - Đối với ly hôn đơn phương: Quy trình sẽ được thực hiện theo các bước sau đây:
+
+ Bước 1: Thụ lý đơn ly hôn (đơn khởi kiện).",overview,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,,,general,medium,3,310
+Xin hướng dẫn thời gian cấp đăng ký kết hôn là bao lâu?,"Giấy chứng nhận kết hôn được cấp ngay sau khi cán bộ tư pháp nhận được đầy đủ hồ sơ hợp lệ và xét thấy đủ điều kiện kết hôn theo quy định (theo Điều 18 Nghị định 123/2015/NĐ-CP).
+
+Nếu thấy đủ điều kiện kết hôn, Điều 18 Luật Hộ tịch 2014 nêu rõ, cán bộ tư pháp ghi việc kết hôn vào Sổ hộ tịch. Hai bên nam nữ ký tên vào Sổ hộ tịch và Giấy chứng nhận đăng ký kết hôn.
+
+Đồng thời hai bên nam, nữ cùng ký vào Sổ đăng ký kết hôn và Giấy chứng nhận đăng ký kết hôn. Sau đó, cán bộ tư pháp báo cáo Chủ tịch UBND cấp xã trao Giấy chứng nhận kết hôn cho hai bên nam, nữ.
+
+Trong trường hợp nếu cần xác minh thêm các điều kiện kết hôn của hai bên nam, nữ thì thời hạn cấp Giấy chứng nhận kết hôn không quá 05 ngày làm việc.
+
+Do đó, có thể thấy thời hạn cấp Giấy đăng ký kết hôn là ngay sau khi hai bên được xét đủ điều kiện kết hôn và được UBND nơi có thẩm quyền thực hiện đăng ký kết hôn cấp Giấy chứng nhận đăng ký kết hôn.
+
+Riêng trường hợp có yếu tố nước ngoài, Sau khi ký Giấy chứng nhận đăng ký kết hôn, cán bộ làm công tác hộ tịch sẽ hướng dẫn hai bên kiểm tra nội dung trong Giấy chứng nhận kết hôn và Sổ đăng ký kết hôn. Thời gian từ lúc tiếp nhận đủ hồ sơ đến lúc nhận Giấy chứng nhận tối đa 13 ngày làm việc
+
+Đặc biệt: Nếu trong 60 ngày kể từ ngày ký mà hai bên không thể có mặt để nhận giấy chứng nhận đăng ký kết hôn thì Giấy này sẽ bị hủy. Nếu hai bên vẫn muốn kết hôn thì phải thực hiện thủ tục lại từ đầu.",full,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,Thời gian cấp đăng ký kết hôn là bao lâu?,2.3,duration,hard,1,325
+Cho tôi biết ly hôn nhanh nhất là bao lâu?,"Cũng theo quy định của Bộ luật Tố tụng dân sự, thời gian giải quyết của một vụ ly hôn thuận tình kéo dài khoảng 02 - 03 tháng, kể từ ngày Tòa án thụ lý đơn.
+
+Trong trường hợp đơn phương ly hôn, thời gian giải quyết kéo dài hơn, có thể từ 04 - 06 tháng. Trên thực tế, do có thể phát sinh những tranh chấp về quyền nuôi con, về tài sản thì thời gian giải quyết còn có thể kéo dài hơn.",full,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Ly hôn nhanh nhất là bao lâu?,1.6,duration,medium,1,87
+Xin hướng dẫn hồ sơ cần chuẩn bị gồm những gì?,"* Kết hôn trong nước
+
+Theo Điều 18 Luật Hộ tịch 2014 quy định khi đăng ký kết hôn, hai bên nam, nữ cần chuẩn bị các giấy tờ sau:
+
+(1) Tờ khai đăng ký kết hôn, có thể dùng chung 1 tờ khai nếu nộp trực tiếp;
+
+(2) Giấy xác nhận tình trạng hôn nhân (bản chính) do UBND cấp xã có thẩm quyền cấp. Áp dụng với trường hợp người yêu cầu không đăng ký thường trú tại địa phương, thì cần giấy này để hoàn tất thủ tục đi đăng ký kết hôn;
+
+(3) Giấy tờ chứng minh nơi cư trú;
+
+(4) Trích lục ghi chú ly hôn (nếu có).
+* Kết hôn có yếu tố nước ngoài
+
+Căn cứ theo Điều 30 Nghị định 123/2015/NĐ-CP, hồ sơ cần chuẩn bị gồm:
+
+(1) Tờ khai đăng ký kết hôn (theo mẫu);
+
+(2) Hộ chiếu/ chứng minh nhân dân/ thẻ căn cước công dân còn hiệu lực;
+
+(3) Giấy xác nhận tình trạng hôn nhân (chứng minh hiện 02 bên đang chưa kết hôn, chưa có vợ/chồng) và xác nhận nơi cư trú.
+
+Trường hợp nước ngoài không cấp xác nhận tình trạng hôn nhân thì thay bằng giấy tờ do cơ quan có thẩm quyền nước ngoài xác nhận người đó có đủ điều kiện kết hôn theo pháp luật nước đó.
+
+Nếu giấy tờ chứng minh tình trạng hôn nhân của người nước ngoài không ghi thời hạn sử dụng thì giấy tờ này và giấy xác nhận của tổ chức y tế theo quy định tại khoản 1 Điều 38 Luật Hộ tịch 2014 chỉ có giá trị 06 tháng, kể từ ngày cấp.
+
+(5) Bản sao hộ chiếu, giấy tờ đi lại quốc tế hoặc thẻ cư trú.
+
+Ngoài ra, một số trường hợp còn cần chuẩn bị:
+
+(1) Trích lục ly hôn hoặc hủy kết hôn đối với người Việt Nam đã từng ly hôn hoặc hủy kết hôn (nếu có).
+
+(2) Văn bản xác nhận kết hôn không trái với quy định của ngành đối với công chức, viên chức hoặc quân đội vũ trang nếu có.
+
+(3) Giấy xác nhận không mắc bệnh tâm thần hoặc các bệnh không có khả năng nhận thức và tự làm chủ hành vi (1 bản gốc + 1 bản hợp pháp hóa lãnh sự và dịch thuật ra tiếng Việt).
+
+Cũng theo Nghị định 120/2025/NĐ-CP, việc kết hôn có yếu tố nước ngoài được thực hiện tại UBND cấp xã giống thủ tục kết hôn không có yếu tố nước ngoài. Theo đó, thẩm quyền này chính thức có hiệu lực từ ngày 01/7/2025 đến ngày 01/03/2027.",full,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,Hồ sơ cần chuẩn bị gồm những gì?,2.1,conditions,hard,1,443
+Mình muốn hỏi về vấn đề giành quyền nuôi con sau khi ly hôn?,"Một trong những vấn đề quan trọng không kém việc chia tài sản chính là vấn đề giành quyền nuôi con và cấp dưỡng sau khi ly hôn. Điều 81 Luật Hôn nhân và Gia đình 2014 quy định:
+
+Sau khi ly hôn, cha mẹ vẫn có quyền, nghĩa vụ trông nom, chăm sóc, nuôi dưỡng, giáo dục con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự hoặc không có khả năng lao động và không có tài sản để tự nuôi mình. Ngược lại, nếu không thỏa thuận được thì Tòa án sẽ giao cho con một bên trực tiếp nuôi căn cứ vào quyền lợi về mọi mặt của con.",summary,ly_hon,Vấn đề giành quyền nuôi con sau khi ly hôn,3,,,rights,medium,2,118
+Cho tôi biết chuẩn bị các loại giấy tờ gì để ly hôn?,"Về cơ bản thì các loại giấy tờ dùng trong trường hợp đơn phương ly hôn hoặc thuận tình ly hôn đều giống nhau. Những giấy tờ cần thiết gồm:
+
+Đơn yêu cầu ly hôn (thuận tình hoặc đơn phương);
+Giấy đăng ký kết hôn (bản chính);
+Căn cước công dân/thẻ Căn cước của vợ và chồng (bản sao có chứng thực);
+Giấy khai sinh của các con (nếu có con chung, bản sao có chứng thực);
+Giấy tờ chứng minh quyền sở hữu đối với tài sản chung (nếu có tài sản chung, bản sao có chứng thực).
+Trường hợp không giữ Giấy chứng nhận kết hôn thì có thể liên hệ với cơ quan hộ tịch nơi đã đăng ký kết hôn để xin cấp bản sao.
+
+Trường hợp không có Căn cước công dân/thẻ Căn cước của vợ/chồng thì theo hướng dẫn của Tòa án để nộp giấy tờ tùy thân khác thay thế.
+
+Điểm khác biệt duy nhất giữa hai hình thức ly hôn này là ở nội dung của đơn ly hôn.
+
+* Nếu đơn phương ly hôn thì sẽ dùng Mẫu đơn xin ly hôn đơn phương được ban hành kèm theo Nghị quyết số 01/2017/NQ-HĐTP.
+
+* Nếu thuận tình ly hôn sẽ dùng Mẫu đơn xin ly hôn thuận tình.",full,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Chuẩn bị các loại giấy tờ gì để ly hôn?,1.3,documents,medium,1,217
+Xin hướng dẫn nộp đơn ly hôn ở đâu?,"Theo quy định tại Điều 35 Bộ luật Tố tụng dân sự năm 2015 sửa đổi, bổ sung bởi khoản 2 Điều 1 Luật 85/2025/QH15, Tòa án nhân dân khu vực là nơi có thẩm quyền giải quyết thủ tục ly hôn cấp sơ thẩm.
+
+* Đối với trường hợp thuận tình ly hôn
+
+Nếu hai vợ chồng thuận tình ly hôn thì có thể thỏa thuận đến Tòa án nơi cư trú của vợ hoặc của chồng để làm thủ tục.
+
+Trong thời hạn 03 ngày làm việc, kể từ ngày nhận đơn yêu cầu và tài liệu, chứng cứ kèm theo, Chánh án Tòa án sẽ phân công Thẩm phán giải quyết.
+
+* Đối với trường hợp đơn phương ly hôn
+
+Điều 39 Bộ luật Tố tụng dân sự 2015 quy định Tòa án nơi bị đơn cư trú, làm việc có thẩm quyền giải quyết theo thủ tục sơ thẩm những tranh chấp về hôn nhân và gia đình. Do đó, trong trường hợp đơn phương ly hôn, Tòa án nơi có thẩm quyền giải quyết sẽ là nơi bị đơn cư trú, làm việc.
+
+Xem chi tiết: Danh sách 355 Tòa án nhân dân khu vực tại 34 tỉnh, thành phố
+
+Đáng lưu ý: Hiện nay, theo quy định của khoản 4 Điều 85 Bộ luật Tố tụng dân sự năm 2015, vợ, chồng không được ủy quyền ly hôn cho người khác tham gia tố tụng mà chỉ được nhờ nộp đơn, nộp án phí... Thay vào đó, nếu không thể tham gia tố tụng thì vợ, chồng có thể gửi đơn đề nghị xét xử vắng mặt đến Tòa...",full,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Nộp đơn ly hôn ở đâu?,1.4,location,hard,1,275
+Chuẩn bị các loại giấy tờ gì để ly hôn?,"Về cơ bản thì các loại giấy tờ dùng trong trường hợp đơn phương ly hôn hoặc thuận tình ly hôn đều giống nhau. Những giấy tờ cần thiết gồm:
+
+Đơn yêu cầu ly hôn (thuận tình hoặc đơn phương);
+Giấy đăng ký kết hôn (bản chính);
+Căn cước công dân/thẻ Căn cước của vợ và chồng (bản sao có chứng thực);
+Giấy khai sinh của các con (nếu có con chung, bản sao có chứng thực);
+Giấy tờ chứng minh quyền sở hữu đối với tài sản chung (nếu có tài sản chung, bản sao có chứng thực).
+Trường hợp không giữ Giấy chứng nhận kết hôn thì có thể liên hệ với cơ quan hộ tịch nơi đã đăng ký kết hôn để xin cấp bản sao.
+
+Trường hợp không có Căn cước công dân/thẻ Căn cước của vợ/chồng thì theo hướng dẫn của Tòa án để nộp giấy tờ tùy thân khác thay thế.
+
+Điểm khác biệt duy nhất giữa hai hình thức ly hôn này là ở nội dung của đơn ly hôn.
+
+* Nếu đơn phương ly hôn thì sẽ dùng Mẫu đơn xin ly hôn đơn phương được ban hành kèm theo Nghị quyết số 01/2017/NQ-HĐTP.
+
+* Nếu thuận tình ly hôn sẽ dùng Mẫu đơn xin ly hôn thuận tình.",full,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Chuẩn bị các loại giấy tờ gì để ly hôn?,1.3,documents,medium,1,217
+Thủ tục đăng ký kết hôn khi vợ/chồng mất tích?,"Một người chỉ được công nhận là mất tích khi được Tòa án ra quyết định tuyên bố người đó mất tích (căn cứ Điều 68 Bộ luật Dân sự năm 2015). Tuy nhiên, khi đó, quan hệ hôn nhân giữa người bị tuyên bố là mất tích với người vợ hoặc chồng của người đó vẫn tồn tại. Mà theo quy định Luật Hôn nhân và Gia đình 2014, việc kết hôn hoặc chung sống như vợ chồng với người đang có vợ, đang có chồng là hành vi bị cấm.",summary,ket_hon,Thủ tục đăng ký kết hôn khi vợ/chồng mất tích,3,,,procedure,medium,2,92
+Đăng ký kết hôn được cấp mấy bản?,"Theo khoản 7 Điều 4 Luật Hộ tịch, giấy chứng nhận kết hôn là văn bản do cơ quan Nhà nước có thẩm quyền cấp cho hai bên nam, nữ khi đăng ký kết hôn. Nếu hai bên nam, nữ đủ điều kiện kết hôn, sau khi nam, nữ cùng ký, ghi rõ họ tên trong Sổ hộ tịch, Giấy chứng nhận kết hôn, mỗi bên vợ, chồng được cấp 01 bản chính Giấy chứng nhận theo khoản 3 Điều 18 Nghị định 123/2015/NĐ-CP.",summary,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,Đăng ký kết hôn được cấp mấy bản?,2.5,general,medium,1,84
+Mình muốn hỏi đăng ký kết hôn có ủy quyền được không?,"Điều 18 Luật Hộ tịch năm 2014 khẳng định “hai bên nam, nữ cùng có mặt khi đăng ký kết hôn”.
+
+Đồng thời, khoản 1 Điều 2 Thông tư 04/2020/TT-BTP quy định, người yêu cầu đăng ký hộ tịch được ủy quyền cho người khác thực hiện thay trừ trường hợp: Đăng ký kết hôn, đăng ký lại việc kết hôn… thì không được ủy quyền nhưng một bên có thể trực tiếp nộp hồ sơ tại cơ quan đăng ký mà không cần văn bản ủy quyền của bên còn lại.
+
+Theo quy định hiện hành, đăng ký kết hôn là một trong những thủ tục không thể ủy quyền. Tuy nhiên, nếu một trong hai bên không thể đến nộp hồ sơ trực tiếp thì người còn lại có thể thực hiện thay mà không cần văn bản ủy quyền.
+
+Đồng thời, khoản 5 Điều 3 Thông tư 04/2020/TT-BTP nêu rõ khi trả kết quả đăng ký kết hôn, đăng ký lại kết hôn, cả hai bên nam, nữ phải có mặt.
+
+Như vậy, có thể hiểu việc đăng ký kết hôn không thể ủy quyền thực hiện cũng như khi nhận kết quả. Tuy nhiên, một trong hai người có thể nộp hồ sơ thay người còn lại mà không cần văn bản ủy quyền.",full,ket_hon,Đăng ký kết hôn có ủy quyền được không?,4,,,rights,medium,2,218
+Mình muốn hỏi hồ sơ cần chuẩn bị gồm những gì?,"* Kết hôn trong nước
+
+Theo Điều 18 Luật Hộ tịch 2014 quy định khi đăng ký kết hôn, hai bên nam, nữ cần chuẩn bị các giấy tờ sau:
+
+(1) Tờ khai đăng ký kết hôn, có thể dùng chung 1 tờ khai nếu nộp trực tiếp;
+
+(2) Giấy xác nhận tình trạng hôn nhân (bản chính) do UBND cấp xã có thẩm quyền cấp.",summary,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,Hồ sơ cần chuẩn bị gồm những gì?,2.1,conditions,hard,1,66
+Xin hướng dẫn đăng ký kết hôn được cấp mấy bản?,"Theo khoản 7 Điều 4 Luật Hộ tịch, giấy chứng nhận kết hôn là văn bản do cơ quan Nhà nước có thẩm quyền cấp cho hai bên nam, nữ khi đăng ký kết hôn.
+
+Nếu hai bên nam, nữ đủ điều kiện kết hôn, sau khi nam, nữ cùng ký, ghi rõ họ tên trong Sổ hộ tịch, Giấy chứng nhận kết hôn, mỗi bên vợ, chồng được cấp 01 bản chính Giấy chứng nhận theo khoản 3 Điều 18 Nghị định 123/2015/NĐ-CP.
+
+Như vậy, có thể thấy, đăng ký kết hôn sẽ được cấp thành 02 bản chính cho mỗi bên vợ, chồng giữ 01 bản.",full,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,Đăng ký kết hôn được cấp mấy bản?,2.5,general,medium,1,108
+Đăng ký kết hôn có ủy quyền được không?,"Điều 18 Luật Hộ tịch năm 2014 khẳng định “hai bên nam, nữ cùng có mặt khi đăng ký kết hôn”.
+
+Đồng thời, khoản 1 Điều 2 Thông tư 04/2020/TT-BTP quy định, người yêu cầu đăng ký hộ tịch được ủy quyền cho người khác thực hiện thay trừ trường hợp: Đăng ký kết hôn, đăng ký lại việc kết hôn… thì không được ủy quyền nhưng một bên có thể trực tiếp nộp hồ sơ tại cơ quan đăng ký mà không cần văn bản ủy quyền của bên còn lại.
+
+Theo quy định hiện hành, đăng ký kết hôn là một trong những thủ tục không thể ủy quyền. Tuy nhiên, nếu một trong hai bên không thể đến nộp hồ sơ trực tiếp thì người còn lại có thể thực hiện thay mà không cần văn bản ủy quyền.
+
+Đồng thời, khoản 5 Điều 3 Thông tư 04/2020/TT-BTP nêu rõ khi trả kết quả đăng ký kết hôn, đăng ký lại kết hôn, cả hai bên nam, nữ phải có mặt.
+
+Như vậy, có thể hiểu việc đăng ký kết hôn không thể ủy quyền thực hiện cũng như khi nhận kết quả. Tuy nhiên, một trong hai người có thể nộp hồ sơ thay người còn lại mà không cần văn bản ủy quyền.",full,ket_hon,Đăng ký kết hôn có ủy quyền được không?,4,,,rights,medium,2,218
+Mình muốn hỏi chia tài sản sau khi ly hôn thế nào?,"Về nguyên tắc, ly hôn là sự thỏa thuận của hai vợ chồng. Về tài sản sau khi ly hôn cũng tương tự như vậy. Nếu hai bên thỏa thuận được thì Tòa án sẽ công nhận sự thỏa thuận về tài sản của hai người. Trong trường hợp không thể thỏa thuận được, Tòa sẽ giải quyết theo hướng chia đôi nhưng có căn cứ vào các yếu tố sau:
+
+- Hoàn cảnh của gia đình và của vợ, chồng;
+
+- Công sức đóng góp của vợ, chồng vào việc tạo lập, duy trì và phát triển khối tài sản chung.",summary,ly_hon,Chia tài sản sau khi ly hôn thế nào?,2,,,general,medium,2,102
+Mình muốn hỏi nộp đơn ly hôn ở đâu?,"Theo quy định tại Điều 35 Bộ luật Tố tụng dân sự năm 2015 sửa đổi, bổ sung bởi khoản 2 Điều 1 Luật 85/2025/QH15, Tòa án nhân dân khu vực là nơi có thẩm quyền giải quyết thủ tục ly hôn cấp sơ thẩm. * Đối với trường hợp thuận tình ly hôn
+
+Nếu hai vợ chồng thuận tình ly hôn thì có thể thỏa thuận đến Tòa án nơi cư trú của vợ hoặc của chồng để làm thủ tục.",summary,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Nộp đơn ly hôn ở đâu?,1.4,location,hard,1,82
+Chia tài sản sau khi ly hôn thế nào?,"Về nguyên tắc, ly hôn là sự thỏa thuận của hai vợ chồng. Về tài sản sau khi ly hôn cũng tương tự như vậy. Nếu hai bên thỏa thuận được thì Tòa án sẽ công nhận sự thỏa thuận về tài sản của hai người. Trong trường hợp không thể thỏa thuận được, Tòa sẽ giải quyết theo hướng chia đôi nhưng có căn cứ vào các yếu tố sau:
+
+- Hoàn cảnh của gia đình và của vợ, chồng;
+
+- Công sức đóng góp của vợ, chồng vào việc tạo lập, duy trì và phát triển khối tài sản chung.",summary,ly_hon,Chia tài sản sau khi ly hôn thế nào?,2,,,general,medium,2,102
+Cho tôi biết phải đăng ký kết hôn trước khi làm đám cưới?,"Theo Điều 9 Luật Hôn nhân và Gia đình, quan hệ hôn nhân chỉ được công nhận và được bảo vệ khi đã thực hiện đầy đủ thủ tục đăng ký với cơ quan có thẩm quyền. Riêng hôn nhân giữa những người cùng giới tính thì Nhà nước không thừa nhận. Dù vậy, khi tổ chức đám cưới cần phải đáp ứng các điều kiện thực hiện nếp sống văn minh trong việc cưới hỏi tại địa phương như: Trang trọng, lành mạnh, giản dị, không mở nhạc trước 06 giờ sáng và sau 22 giờ đêm...",summary,ket_hon,Phải đăng ký kết hôn trước khi làm đám cưới?,5,,,conditions,easy,2,98
+Cho tôi biết về điều kiện để được yêu cầu ly hôn?,"Hiện nay, có hai hình thức ly hôn là ly hôn thuận tình và một bên gửi yêu cầu đơn phương ly hôn. Do đó, với mỗi loại hình thì sẽ yêu cầu điều kiện khác nhau. Cụ thể như sau:
+
+Điều kiện để ly hôn thuận tình
+
+- Hai bên thật sự tự nguyện ly hôn
+
+- Hai bên đã thỏa thuận về việc chia tài sản, quyền nuôi con, nghĩa vụ cấp dưỡng…
+
+Điều kiện để đơn phương ly hôn
+
+- Vợ, chồng có hành vi bạo lực gia đình
+
+- Khi một người vi phạm nghiêm trọng quyền, nghĩa vụ làm cho hôn nhân lâm vào tình trạng trầm trọng, đời sống chung không thể kéo dài;
+
+- Vợ hoặc chồng bị Tòa án tuyên bố mất tích;
+
+- Khi một người bị bệnh tâm thần hoặc bệnh khác đồng thời là nạn nhân của bạo lực gia đình do người còn lại gây nên.",full,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Điều kiện để được yêu cầu ly hôn,1.2,conditions,medium,1,158
+Nộp hồ sơ đến đâu?,"- Nếu nộp trực tuyến, người có yêu cầu có thể truy cập Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công cấp tỉnh. - Nếu chọn nộp trực tiếp, người yêu cầu đăng ký cần nộp hồ sơ đăng ký kết hôn tại Trung tâm Phục vụ hành chính công có thẩm quyền.",summary,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,Nộp hồ sơ đến đâu?,2.2,documents,medium,1,56
+Xin hướng dẫn hồ sơ cần chuẩn bị gồm những gì?,"* Kết hôn trong nước
+
+Theo Điều 18 Luật Hộ tịch 2014 quy định khi đăng ký kết hôn, hai bên nam, nữ cần chuẩn bị các giấy tờ sau:
+
+(1) Tờ khai đăng ký kết hôn, có thể dùng chung 1 tờ khai nếu nộp trực tiếp;
+
+(2) Giấy xác nhận tình trạng hôn nhân (bản chính) do UBND cấp xã có thẩm quyền cấp.",summary,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,Hồ sơ cần chuẩn bị gồm những gì?,2.1,conditions,hard,1,66
+"Cho tôi biết hiện nay, có thể đăng ký kết hôn qua mạng?","Hiện nay, với sự phát triển của khoa học kỹ thuật, nhiều địa phương đã tiến hành thực hiện thủ tục hành chính qua mạng. Theo đó, để thực hiện việc đăng ký kết hôn qua mạng, công dân tại tỉnh, thành nào sẽ truy cập vào Cổng dịch vụ công trực tuyến của tỉnh đó để thực hiện các thao tác đăng ký. Sau khi đăng ký qua mạng thành công, các cặp đôi phải chú ý tin nhắn hoặc email để liên tục cập nhật tình hình hồ sơ của mình và xác nhận lại thông tin.",summary,ket_hon,"Hiện nay, có thể đăng ký kết hôn qua mạng?",7,,,general,medium,2,99
+Quy trình ly hôn?,"- Đối với ly hôn đơn phương: Quy trình sẽ được thực hiện theo các bước sau đây:
+
+ Bước 1: Thụ lý đơn ly hôn (đơn khởi kiện). Vợ hoặc chồng - người muốn ly hôn đơn phương phải chuẩn bị đầy đủ hồ sơ, giấy tờ, tài liệu và chứng cứ về hành vi bạo lực gia đình (nếu có) của người còn lại để nộp cho Tòa án có thẩm quyền (đã nêu ở trên). Bước 2: Hòa giải.",summary,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Quy trình ly hôn,1.7,procedure,hard,1,81
+Mình muốn hỏi nộp hồ sơ đến đâu?,"- Nếu nộp trực tuyến, người có yêu cầu có thể truy cập Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công cấp tỉnh.
+- Nếu chọn nộp trực tiếp, người yêu cầu đăng ký cần nộp hồ sơ đăng ký kết hôn tại Trung tâm Phục vụ hành chính công có thẩm quyền.
+
+Theo Nghị định 120/2025/NĐ-CP có hiệu lực từ 01/7/2025 đến 01/03/2027 quy định công chức tư pháp - hộ tịch cấp xã chính thức đảm nhận toàn bộ nhiệm vụ đăng ký hộ tịch mà trước đây do phòng tư pháp cấp huyện và công chức hộ tịch cấp huyện thực hiện. Một số thủ tục đăng ký hộ tịch như: Thủ tục đăng ký khai sinh; Thủ tục đăng ký kết hôn (bao gồm kết hôn có yếu tố nước ngoài)....",full,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,Nộp hồ sơ đến đâu?,2.2,documents,medium,1,138
+Quy trình ly hôn?,"- Đối với ly hôn đơn phương: Quy trình sẽ được thực hiện theo các bước sau đây:
+
+ Bước 1: Thụ lý đơn ly hôn (đơn khởi kiện). Vợ hoặc chồng - người muốn ly hôn đơn phương phải chuẩn bị đầy đủ hồ sơ, giấy tờ, tài liệu và chứng cứ về hành vi bạo lực gia đình (nếu có) của người còn lại để nộp cho Tòa án có thẩm quyền (đã nêu ở trên).
+
+Bước 2: Hòa giải. Sau khi nhận được đơn ly hôn đơn phương, Tòa án sẽ xem xét có nhận và thụ lý vụ án ly hôn không. Nếu xét thấy có căn cứ để xét đơn ly hôn đơn phương thì yêu cầu người nộp đơn nộp án phí tạm ứng và tiến hành hòa giải.
+
+Nếu hòa giải thành thì Tòa án ra quyết định công nhận hòa giải thành nếu không hòa giải được thì Tòa án đưa vụ án ra xét xử.
+
+Bước 3: Mở phiên tòa sơ thẩm. Sau khi xét xử, Tòa án sẽ ra bản án chấm dứt quan hệ hôn nhân giữa vợ và chồng.
+
+- Đối với ly hôn thuận tình: Ly hôn thuận tình sẽ được thực hiện theo các bước sau đây:
+
+Bước 1: Thụ lý đơn. Vợ và chồng chuẩn bị hồ sơ nêu trên và nộp hồ sơ đến Tòa án có thẩm quyền.
+
+Bước 2: Chuẩn bị xét đơn yêu cầu và mở phiên họp công khai để giải quyết việc yêu cầu công nhận thuận tình ly hôn. Trong giai đoạn này, Tòa án sẽ xem xét đơn ly hôn thuận tình, căn cứ để chấm dứt quan hệ hôn nhân và ra thông báo nộp lệ phí tạm ứng.
+
+Sau khi vợ, chồng nộp tạm ứng lệ phí thì Tòa án sẽ mở phiên họp công khai để giải quyết việc yêu cầu công nhận thuận tình ly hôn.
+
+Bước 3: Ra quyết định công nhận thuận tình ly hôn. Sau khi tiến hành hòa giải mà không thành thì Tòa án sẽ ra quyết định công nhận ly hôn. Ngược lại, nếu hòa giải thành thì Tòa án sẽ đình chỉ giải quyết việc dân sự.",full,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Quy trình ly hôn,1.7,procedure,hard,1,370
+Mình muốn hỏi chia tài sản sau khi ly hôn thế nào?,"Về nguyên tắc, ly hôn là sự thỏa thuận của hai vợ chồng. Về tài sản sau khi ly hôn cũng tương tự như vậy. Nếu hai bên thỏa thuận được thì Tòa án sẽ công nhận sự thỏa thuận về tài sản của hai người.
+
+Trong trường hợp không thể thỏa thuận được, Tòa sẽ giải quyết theo hướng chia đôi nhưng có căn cứ vào các yếu tố sau:
+
+- Hoàn cảnh của gia đình và của vợ, chồng;
+
+- Công sức đóng góp của vợ, chồng vào việc tạo lập, duy trì và phát triển khối tài sản chung.
+
+- Bảo vệ lợi ích chính đáng của mỗi bên trong sản xuất, kinh doanh và nghề nghiệp để các bên có điều kiện tiếp tục lao động tạo thu nhập;
+
+- Lỗi của mỗi bên trong vi phạm quyền, nghĩa vụ của vợ chồng
+
+Quy định về chia tài sản khi ly hôn cụ thể tại Điều 59 Luật Hôn nhân và gia đình 2014.
+Tuy nhiên, trên thực tế, việc phân chia tài sản trước khi ""đường ai nấy đi"" không hề đơn giản, nhất là việc xác định tài sản chung, tài sản riêng của vợ, chồng và công sức đóng góp của mỗi bên trong khối tài sản chung.",full,ly_hon,Chia tài sản sau khi ly hôn thế nào?,2,,,general,medium,2,215
+Giải quyết nợ chung khi ly hôn như thế nào?,"Như phân tích ở trên, có hai hình thức ly hôn là ly hôn đơn phương và ly hôn thuận tình. Do đó, những vấn đề cần giải quyết của hai hình thức này cũng khác nhau. Tuy vậy, nhìn chung, khi các cặp vợ, chồng muốn chấm dứt quan hệ hôn nhân thường cũng muốn giải quyết vấn đề tài sản chung, con chung và một phần không thể thiếu là nợ chung.
+
+Theo đó, khoản 1 Điều 60 Luật Hôn nhân và Gia đình 2014 quy định:
+
+Quyền, nghĩa vụ tài sản của vợ chồng đối với người thứ ba vẫn có hiệu lực sau khi ly hôn, trừ trường hợp vợ chồng và người thứ ba có thỏa thuận khác.
+
+Do đó, nợ chung của vợ, chồng trong thời kỳ hôn nhân thì nếu chưa được Tòa án quyết định hoặc công nhận trong bản án, quyết định đã có hiệu lực pháp luật thì vẫn có hiệu lực dù hai vợ, chồng đã ly hôn. Và chỉ có trường hợp duy nhất, sau khi ly hôn hai vợ chồng không phải trả nợ đó là khi vợ, chồng và người thứ ba (người cho vay) có thỏa thuận khác.",full,ly_hon,Giải quyết nợ chung khi ly hôn,4,,,general,medium,2,203
+Xin hướng dẫn ly hôn nhanh nhất là bao lâu?,"Cũng theo quy định của Bộ luật Tố tụng dân sự, thời gian giải quyết của một vụ ly hôn thuận tình kéo dài khoảng 02 - 03 tháng, kể từ ngày Tòa án thụ lý đơn.
+
+Trong trường hợp đơn phương ly hôn, thời gian giải quyết kéo dài hơn, có thể từ 04 - 06 tháng. Trên thực tế, do có thể phát sinh những tranh chấp về quyền nuôi con, về tài sản thì thời gian giải quyết còn có thể kéo dài hơn.",full,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Ly hôn nhanh nhất là bao lâu?,1.6,duration,medium,1,87
+Phải đăng ký kết hôn trước khi làm đám cưới?,"Theo Điều 9 Luật Hôn nhân và Gia đình, quan hệ hôn nhân chỉ được công nhận và được bảo vệ khi đã thực hiện đầy đủ thủ tục đăng ký với cơ quan có thẩm quyền. Riêng hôn nhân giữa những người cùng giới tính thì Nhà nước không thừa nhận.
+
+Dù vậy, khi tổ chức đám cưới cần phải đáp ứng các điều kiện thực hiện nếp sống văn minh trong việc cưới hỏi tại địa phương như: Trang trọng, lành mạnh, giản dị, không mở nhạc trước 06 giờ sáng và sau 22 giờ đêm...",full,ket_hon,Phải đăng ký kết hôn trước khi làm đám cưới?,5,,,conditions,easy,2,98
+Hướng dẫn về vấn đề nộp án phí khi ly hôn?,"Theo Nghị quyết 326/2016/NQ-UBTVQH14, mức án phí khi ly hôn cụ thể như sau:
+
+- Án phí cho một vụ việc ly hôn không có tranh chấp về tài sản là 300.000 đồng;
+
+- Đối với những vụ việc có tranh chấp về tài sản thì ngoài mức án phí 300.000 đồng, đương sự còn phải chịu án phí với phần tài sản có tranh chấp, được xác định theo giá trị tài sản tranh chấp.",full,ly_hon,Vấn đề nộp án phí khi ly hôn,5,,,location,easy,2,76
+Xin hướng dẫn thời gian cấp đăng ký kết hôn là bao lâu?,"Giấy chứng nhận kết hôn được cấp ngay sau khi cán bộ tư pháp nhận được đầy đủ hồ sơ hợp lệ và xét thấy đủ điều kiện kết hôn theo quy định (theo Điều 18 Nghị định 123/2015/NĐ-CP). Nếu thấy đủ điều kiện kết hôn, Điều 18 Luật Hộ tịch 2014 nêu rõ, cán bộ tư pháp ghi việc kết hôn vào Sổ hộ tịch. Hai bên nam nữ ký tên vào Sổ hộ tịch và Giấy chứng nhận đăng ký kết hôn.",summary,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,Thời gian cấp đăng ký kết hôn là bao lâu?,2.3,duration,hard,1,84
+Ly hôn nhanh nhất là bao lâu?,"Cũng theo quy định của Bộ luật Tố tụng dân sự, thời gian giải quyết của một vụ ly hôn thuận tình kéo dài khoảng 02 - 03 tháng, kể từ ngày Tòa án thụ lý đơn. Trong trường hợp đơn phương ly hôn, thời gian giải quyết kéo dài hơn, có thể từ 04 - 06 tháng. Trên thực tế, do có thể phát sinh những tranh chấp về quyền nuôi con, về tài sản thì thời gian giải quyết còn có thể kéo dài hơn.",summary,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Ly hôn nhanh nhất là bao lâu?,1.6,duration,medium,1,87
+Cho tôi biết về quy trình ly hôn?,"- Đối với ly hôn đơn phương: Quy trình sẽ được thực hiện theo các bước sau đây:
+
+ Bước 1: Thụ lý đơn ly hôn (đơn khởi kiện). Vợ hoặc chồng - người muốn ly hôn đơn phương phải chuẩn bị đầy đủ hồ sơ, giấy tờ, tài liệu và chứng cứ về hành vi bạo lực gia đình (nếu có) của người còn lại để nộp cho Tòa án có thẩm quyền (đã nêu ở trên). Bước 2: Hòa giải.",summary,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Quy trình ly hôn,1.7,procedure,hard,1,81
+Mình muốn hỏi đăng ký kết hôn được cấp mấy bản?,"Theo khoản 7 Điều 4 Luật Hộ tịch, giấy chứng nhận kết hôn là văn bản do cơ quan Nhà nước có thẩm quyền cấp cho hai bên nam, nữ khi đăng ký kết hôn.
+
+Nếu hai bên nam, nữ đủ điều kiện kết hôn, sau khi nam, nữ cùng ký, ghi rõ họ tên trong Sổ hộ tịch, Giấy chứng nhận kết hôn, mỗi bên vợ, chồng được cấp 01 bản chính Giấy chứng nhận theo khoản 3 Điều 18 Nghị định 123/2015/NĐ-CP.
+
+Như vậy, có thể thấy, đăng ký kết hôn sẽ được cấp thành 02 bản chính cho mỗi bên vợ, chồng giữ 01 bản.",full,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,Đăng ký kết hôn được cấp mấy bản?,2.5,general,medium,1,108
+Mua đơn ly hôn ở đâu?,"Hiện nay, khi ly hôn đơn phương, vợ, chồng sử dụng mẫu đơn khởi kiện và khi ly hôn thuận tình, vợ, chồng sử dụng mẫu đơn yêu cầu giải quyết việc dân sự được ban hành kèm Nghị quyết 01/2017/NQ-HĐTP. Tuy nhiên, tại Nghị quyết này, Hội đồng Thẩm phán không yêu cầu đơn ly hôn phải sử dụng hình thức nào. Do đó, vợ, chồng muốn ly hôn, hoàn toàn có thể sử dụng đơn ly hôn viết tay, đánh máy, mua tại Tòa án hoặc download biểu mẫu trên mạng và tự in.",summary,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Mua đơn ly hôn ở đâu?,1.5,location,easy,1,96
+Mình muốn hỏi về vấn đề nộp án phí khi ly hôn?,"Theo Nghị quyết 326/2016/NQ-UBTVQH14, mức án phí khi ly hôn cụ thể như sau:
+
+- Án phí cho một vụ việc ly hôn không có tranh chấp về tài sản là 300.000 đồng;
+
+- Đối với những vụ việc có tranh chấp về tài sản thì ngoài mức án phí 300.000 đồng, đương sự còn phải chịu án phí với phần tài sản có tranh chấp, được xác định theo giá trị tài sản tranh chấp.",summary,ly_hon,Vấn đề nộp án phí khi ly hôn,5,,,location,easy,2,76
+Hướng dẫn về điều kiện đăng ký kết hôn mới nhất?,"Theo khoản 13 Điều 3 Luật Hôn nhân và Gia đình 2014, thời kỳ hôn nhân là khoảng thời gian tồn tại quan hệ vợ chồng, được tính từ ngày đăng ký kết hôn đến ngày chấm dứt hôn nhân. Đồng thời, quan hệ vợ chồng chỉ được xác lập khi hai bên đăng ký kết hôn.",summary,ket_hon,Điều kiện đăng ký kết hôn mới nhất,1,,,conditions,medium,2,57
+Cho tôi biết về thủ tục đăng ký kết hôn khi vợ/chồng mất tích?,"Một người chỉ được công nhận là mất tích khi được Tòa án ra quyết định tuyên bố người đó mất tích (căn cứ Điều 68 Bộ luật Dân sự năm 2015). Tuy nhiên, khi đó, quan hệ hôn nhân giữa người bị tuyên bố là mất tích với người vợ hoặc chồng của người đó vẫn tồn tại. Mà theo quy định Luật Hôn nhân và Gia đình 2014, việc kết hôn hoặc chung sống như vợ chồng với người đang có vợ, đang có chồng là hành vi bị cấm.",summary,ket_hon,Thủ tục đăng ký kết hôn khi vợ/chồng mất tích,3,,,procedure,medium,2,92
+Mình muốn hỏi ai có quyền yêu cầu ly hôn?,"Theo quy định của Luật Hôn nhân và Gia đình, ly hôn là việc chấm dứt quan hệ vợ chồng theo bản án, quyết định có hiệu lực pháp luật của Tòa án. Do đó, để được ly hôn, các cặp vợ, chồng phải xác định được ai là người có quyền yêu cầu ly hôn. Đồng thời, tại Điều 51 Luật Hôn nhân và gia đình năm 2014, người có quyền yêu cầu giải quyết ly hôn gồm:
+
+Vợ, chồng hoặc cả hai người có quyền yêu cầu Tòa án giải quyết ly hôn.",summary,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Ai có quyền yêu cầu ly hôn?,1.1,rights,medium,1,95
+Điều kiện để được yêu cầu ly hôn?,"Hiện nay, có hai hình thức ly hôn là ly hôn thuận tình và một bên gửi yêu cầu đơn phương ly hôn. Do đó, với mỗi loại hình thì sẽ yêu cầu điều kiện khác nhau.",summary,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Điều kiện để được yêu cầu ly hôn,1.2,conditions,medium,1,37
+Mình muốn hỏi ly hôn nhanh nhất là bao lâu?,"Cũng theo quy định của Bộ luật Tố tụng dân sự, thời gian giải quyết của một vụ ly hôn thuận tình kéo dài khoảng 02 - 03 tháng, kể từ ngày Tòa án thụ lý đơn.
+
+Trong trường hợp đơn phương ly hôn, thời gian giải quyết kéo dài hơn, có thể từ 04 - 06 tháng. Trên thực tế, do có thể phát sinh những tranh chấp về quyền nuôi con, về tài sản thì thời gian giải quyết còn có thể kéo dài hơn.",full,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Ly hôn nhanh nhất là bao lâu?,1.6,duration,medium,1,87
+Cho tôi biết lệ phí đăng ký kết hôn là bao nhiêu?,"Nếu đăng ký kết hôn của công dân Việt Nam cư trú trong nước thì được miễn lệ phí đăng ký kết hôn theo quy định tại Điều 11 Luật Hộ tịch 2014. Tuy nhiên, có nhu cầu cấp bản sao Giấy chứng nhận kết hôn thì lệ phí là 8.000 đồng/bản sao.",summary,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,Lệ phí đăng ký kết hôn là bao nhiêu?,2.4,cost,medium,1,53
+"Mình muốn hỏi hiện nay, có thể đăng ký kết hôn qua mạng?","Hiện nay, với sự phát triển của khoa học kỹ thuật, nhiều địa phương đã tiến hành thực hiện thủ tục hành chính qua mạng. Theo đó, để thực hiện việc đăng ký kết hôn qua mạng, công dân tại tỉnh, thành nào sẽ truy cập vào Cổng dịch vụ công trực tuyến của tỉnh đó để thực hiện các thao tác đăng ký. Sau khi đăng ký qua mạng thành công, các cặp đôi phải chú ý tin nhắn hoặc email để liên tục cập nhật tình hình hồ sơ của mình và xác nhận lại thông tin.",summary,ket_hon,"Hiện nay, có thể đăng ký kết hôn qua mạng?",7,,,general,medium,2,99
+Cho tôi biết ai có quyền yêu cầu ly hôn?,"Theo quy định của Luật Hôn nhân và Gia đình, ly hôn là việc chấm dứt quan hệ vợ chồng theo bản án, quyết định có hiệu lực pháp luật của Tòa án. Do đó, để được ly hôn, các cặp vợ, chồng phải xác định được ai là người có quyền yêu cầu ly hôn. Đồng thời, tại Điều 51 Luật Hôn nhân và gia đình năm 2014, người có quyền yêu cầu giải quyết ly hôn gồm:
+
+Vợ, chồng hoặc cả hai người có quyền yêu cầu Tòa án giải quyết ly hôn.",summary,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Ai có quyền yêu cầu ly hôn?,1.1,rights,medium,1,95
+Mình muốn hỏi về vấn đề giành quyền nuôi con sau khi ly hôn?,"Một trong những vấn đề quan trọng không kém việc chia tài sản chính là vấn đề giành quyền nuôi con và cấp dưỡng sau khi ly hôn.
+
+Điều 81 Luật Hôn nhân và Gia đình 2014 quy định:
+
+Sau khi ly hôn, cha mẹ vẫn có quyền, nghĩa vụ trông nom, chăm sóc, nuôi dưỡng, giáo dục con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự hoặc không có khả năng lao động và không có tài sản để tự nuôi mình.
+
+Ngược lại, nếu không thỏa thuận được thì Tòa án sẽ giao cho con một bên trực tiếp nuôi căn cứ vào quyền lợi về mọi mặt của con. Khi đó, cha hoặc mẹ phải chứng minh mình đủ điều kiện để đảm bảo quyền lợi về mọi mặt của con như: điều kiện kinh tế, tinh thần…
+
+Lưu ý là, khi con từ đủ 07 tuổi trở lên thì phải xem xét nguyện vọng của con.
+
+Ngoài ra, người nào không trực tiếp nuôi con phải có trách nhiệm cấp dưỡng. Mức cấp dưỡng do thỏa thuận căn cứ vào thu nhập, khả năng thực tế của người có nghĩa vụ cấp dưỡng và nhu cầu thiết yếu của người được cấp dưỡng.",full,ly_hon,Vấn đề giành quyền nuôi con sau khi ly hôn,3,,,rights,medium,2,213
+Mình muốn hỏi đăng ký kết hôn được cấp mấy bản?,"Theo khoản 7 Điều 4 Luật Hộ tịch, giấy chứng nhận kết hôn là văn bản do cơ quan Nhà nước có thẩm quyền cấp cho hai bên nam, nữ khi đăng ký kết hôn. Nếu hai bên nam, nữ đủ điều kiện kết hôn, sau khi nam, nữ cùng ký, ghi rõ họ tên trong Sổ hộ tịch, Giấy chứng nhận kết hôn, mỗi bên vợ, chồng được cấp 01 bản chính Giấy chứng nhận theo khoản 3 Điều 18 Nghị định 123/2015/NĐ-CP.",summary,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,Đăng ký kết hôn được cấp mấy bản?,2.5,general,medium,1,84
+Xin hướng dẫn mua đơn ly hôn ở đâu?,"Hiện nay, khi ly hôn đơn phương, vợ, chồng sử dụng mẫu đơn khởi kiện và khi ly hôn thuận tình, vợ, chồng sử dụng mẫu đơn yêu cầu giải quyết việc dân sự được ban hành kèm Nghị quyết 01/2017/NQ-HĐTP. Tuy nhiên, tại Nghị quyết này, Hội đồng Thẩm phán không yêu cầu đơn ly hôn phải sử dụng hình thức nào.
+
+Do đó, vợ, chồng muốn ly hôn, hoàn toàn có thể sử dụng đơn ly hôn viết tay, đánh máy, mua tại Tòa án hoặc download biểu mẫu trên mạng và tự in.",full,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Mua đơn ly hôn ở đâu?,1.5,location,easy,1,96
+Nộp đơn ly hôn ở đâu?,"Theo quy định tại Điều 35 Bộ luật Tố tụng dân sự năm 2015 sửa đổi, bổ sung bởi khoản 2 Điều 1 Luật 85/2025/QH15, Tòa án nhân dân khu vực là nơi có thẩm quyền giải quyết thủ tục ly hôn cấp sơ thẩm. * Đối với trường hợp thuận tình ly hôn
+
+Nếu hai vợ chồng thuận tình ly hôn thì có thể thỏa thuận đến Tòa án nơi cư trú của vợ hoặc của chồng để làm thủ tục.",summary,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Nộp đơn ly hôn ở đâu?,1.4,location,hard,1,82
+Xin hướng dẫn mua đơn ly hôn ở đâu?,"Hiện nay, khi ly hôn đơn phương, vợ, chồng sử dụng mẫu đơn khởi kiện và khi ly hôn thuận tình, vợ, chồng sử dụng mẫu đơn yêu cầu giải quyết việc dân sự được ban hành kèm Nghị quyết 01/2017/NQ-HĐTP. Tuy nhiên, tại Nghị quyết này, Hội đồng Thẩm phán không yêu cầu đơn ly hôn phải sử dụng hình thức nào. Do đó, vợ, chồng muốn ly hôn, hoàn toàn có thể sử dụng đơn ly hôn viết tay, đánh máy, mua tại Tòa án hoặc download biểu mẫu trên mạng và tự in.",summary,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Mua đơn ly hôn ở đâu?,1.5,location,easy,1,96
+Mình muốn hỏi về giải quyết nợ chung khi ly hôn?,"Như phân tích ở trên, có hai hình thức ly hôn là ly hôn đơn phương và ly hôn thuận tình. Do đó, những vấn đề cần giải quyết của hai hình thức này cũng khác nhau. Tuy vậy, nhìn chung, khi các cặp vợ, chồng muốn chấm dứt quan hệ hôn nhân thường cũng muốn giải quyết vấn đề tài sản chung, con chung và một phần không thể thiếu là nợ chung.
+
+Theo đó, khoản 1 Điều 60 Luật Hôn nhân và Gia đình 2014 quy định:
+
+Quyền, nghĩa vụ tài sản của vợ chồng đối với người thứ ba vẫn có hiệu lực sau khi ly hôn, trừ trường hợp vợ chồng và người thứ ba có thỏa thuận khác.
+
+Do đó, nợ chung của vợ, chồng trong thời kỳ hôn nhân thì nếu chưa được Tòa án quyết định hoặc công nhận trong bản án, quyết định đã có hiệu lực pháp luật thì vẫn có hiệu lực dù hai vợ, chồng đã ly hôn. Và chỉ có trường hợp duy nhất, sau khi ly hôn hai vợ chồng không phải trả nợ đó là khi vợ, chồng và người thứ ba (người cho vay) có thỏa thuận khác.",full,ly_hon,Giải quyết nợ chung khi ly hôn,4,,,general,medium,2,203
+Cho tôi biết về điều kiện để được yêu cầu ly hôn?,"Hiện nay, có hai hình thức ly hôn là ly hôn thuận tình và một bên gửi yêu cầu đơn phương ly hôn. Do đó, với mỗi loại hình thì sẽ yêu cầu điều kiện khác nhau.",summary,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Điều kiện để được yêu cầu ly hôn,1.2,conditions,medium,1,37
+Xin hướng dẫn nộp hồ sơ đến đâu?,"- Nếu nộp trực tuyến, người có yêu cầu có thể truy cập Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công cấp tỉnh. - Nếu chọn nộp trực tiếp, người yêu cầu đăng ký cần nộp hồ sơ đăng ký kết hôn tại Trung tâm Phục vụ hành chính công có thẩm quyền.",summary,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,Nộp hồ sơ đến đâu?,2.2,documents,medium,1,56
+Cho tôi biết mua đơn ly hôn ở đâu?,"Hiện nay, khi ly hôn đơn phương, vợ, chồng sử dụng mẫu đơn khởi kiện và khi ly hôn thuận tình, vợ, chồng sử dụng mẫu đơn yêu cầu giải quyết việc dân sự được ban hành kèm Nghị quyết 01/2017/NQ-HĐTP. Tuy nhiên, tại Nghị quyết này, Hội đồng Thẩm phán không yêu cầu đơn ly hôn phải sử dụng hình thức nào.
+
+Do đó, vợ, chồng muốn ly hôn, hoàn toàn có thể sử dụng đơn ly hôn viết tay, đánh máy, mua tại Tòa án hoặc download biểu mẫu trên mạng và tự in.",full,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Mua đơn ly hôn ở đâu?,1.5,location,easy,1,96
+Đăng ký kết hôn có ủy quyền được không?,"Điều 18 Luật Hộ tịch năm 2014 khẳng định “hai bên nam, nữ cùng có mặt khi đăng ký kết hôn”. Đồng thời, khoản 1 Điều 2 Thông tư 04/2020/TT-BTP quy định, người yêu cầu đăng ký hộ tịch được ủy quyền cho người khác thực hiện thay trừ trường hợp: Đăng ký kết hôn, đăng ký lại việc kết hôn… thì không được ủy quyền nhưng một bên có thể trực tiếp nộp hồ sơ tại cơ quan đăng ký mà không cần văn bản ủy quyền của bên còn lại. Theo quy định hiện hành, đăng ký kết hôn là một trong những thủ tục không thể ủy quyền.",summary,ket_hon,Đăng ký kết hôn có ủy quyền được không?,4,,,rights,medium,2,111
+Mình muốn hỏi lệ phí đăng ký kết hôn là bao nhiêu?,"Nếu đăng ký kết hôn của công dân Việt Nam cư trú trong nước thì được miễn lệ phí đăng ký kết hôn theo quy định tại Điều 11 Luật Hộ tịch 2014. Tuy nhiên, có nhu cầu cấp bản sao Giấy chứng nhận kết hôn thì lệ phí là 8.000 đồng/bản sao.",full,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,Lệ phí đăng ký kết hôn là bao nhiêu?,2.4,cost,medium,1,53
+Xin hướng dẫn lệ phí đăng ký kết hôn là bao nhiêu?,"Nếu đăng ký kết hôn của công dân Việt Nam cư trú trong nước thì được miễn lệ phí đăng ký kết hôn theo quy định tại Điều 11 Luật Hộ tịch 2014. Tuy nhiên, có nhu cầu cấp bản sao Giấy chứng nhận kết hôn thì lệ phí là 8.000 đồng/bản sao.",summary,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,Lệ phí đăng ký kết hôn là bao nhiêu?,2.4,cost,medium,1,53
+Vấn đề giành quyền nuôi con sau khi ly hôn?,"Một trong những vấn đề quan trọng không kém việc chia tài sản chính là vấn đề giành quyền nuôi con và cấp dưỡng sau khi ly hôn. Điều 81 Luật Hôn nhân và Gia đình 2014 quy định:
+
+Sau khi ly hôn, cha mẹ vẫn có quyền, nghĩa vụ trông nom, chăm sóc, nuôi dưỡng, giáo dục con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự hoặc không có khả năng lao động và không có tài sản để tự nuôi mình. Ngược lại, nếu không thỏa thuận được thì Tòa án sẽ giao cho con một bên trực tiếp nuôi căn cứ vào quyền lợi về mọi mặt của con.",summary,ly_hon,Vấn đề giành quyền nuôi con sau khi ly hôn,3,,,rights,medium,2,118
+Xin hướng dẫn nộp đơn ly hôn ở đâu?,"Theo quy định tại Điều 35 Bộ luật Tố tụng dân sự năm 2015 sửa đổi, bổ sung bởi khoản 2 Điều 1 Luật 85/2025/QH15, Tòa án nhân dân khu vực là nơi có thẩm quyền giải quyết thủ tục ly hôn cấp sơ thẩm. * Đối với trường hợp thuận tình ly hôn
+
+Nếu hai vợ chồng thuận tình ly hôn thì có thể thỏa thuận đến Tòa án nơi cư trú của vợ hoặc của chồng để làm thủ tục.",summary,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Nộp đơn ly hôn ở đâu?,1.4,location,hard,1,82
+Cho tôi biết về vấn đề giành quyền nuôi con sau khi ly hôn?,"Một trong những vấn đề quan trọng không kém việc chia tài sản chính là vấn đề giành quyền nuôi con và cấp dưỡng sau khi ly hôn.
+
+Điều 81 Luật Hôn nhân và Gia đình 2014 quy định:
+
+Sau khi ly hôn, cha mẹ vẫn có quyền, nghĩa vụ trông nom, chăm sóc, nuôi dưỡng, giáo dục con chưa thành niên, con đã thành niên mất năng lực hành vi dân sự hoặc không có khả năng lao động và không có tài sản để tự nuôi mình.
+
+Ngược lại, nếu không thỏa thuận được thì Tòa án sẽ giao cho con một bên trực tiếp nuôi căn cứ vào quyền lợi về mọi mặt của con. Khi đó, cha hoặc mẹ phải chứng minh mình đủ điều kiện để đảm bảo quyền lợi về mọi mặt của con như: điều kiện kinh tế, tinh thần…
+
+Lưu ý là, khi con từ đủ 07 tuổi trở lên thì phải xem xét nguyện vọng của con.
+
+Ngoài ra, người nào không trực tiếp nuôi con phải có trách nhiệm cấp dưỡng. Mức cấp dưỡng do thỏa thuận căn cứ vào thu nhập, khả năng thực tế của người có nghĩa vụ cấp dưỡng và nhu cầu thiết yếu của người được cấp dưỡng.",full,ly_hon,Vấn đề giành quyền nuôi con sau khi ly hôn,3,,,rights,medium,2,213
+Quy trình ly hôn như thế nào?,"- Đối với ly hôn đơn phương: Quy trình sẽ được thực hiện theo các bước sau đây:
+
+ Bước 1: Thụ lý đơn ly hôn (đơn khởi kiện). Vợ hoặc chồng - người muốn ly hôn đơn phương phải chuẩn bị đầy đủ hồ sơ, giấy tờ, tài liệu và chứng cứ về hành vi bạo lực gia đình (nếu có) của người còn lại để nộp cho Tòa án có thẩm quyền (đã nêu ở trên). Bước 2: Hòa giải.",summary,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Quy trình ly hôn,1.7,procedure,hard,1,81
+Xin hướng dẫn lệ phí đăng ký kết hôn là bao nhiêu?,"Nếu đăng ký kết hôn của công dân Việt Nam cư trú trong nước thì được miễn lệ phí đăng ký kết hôn theo quy định tại Điều 11 Luật Hộ tịch 2014. Tuy nhiên, có nhu cầu cấp bản sao Giấy chứng nhận kết hôn thì lệ phí là 8.000 đồng/bản sao.",full,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,Lệ phí đăng ký kết hôn là bao nhiêu?,2.4,cost,medium,1,53
+Mua đơn ly hôn ở đâu?,"Hiện nay, khi ly hôn đơn phương, vợ, chồng sử dụng mẫu đơn khởi kiện và khi ly hôn thuận tình, vợ, chồng sử dụng mẫu đơn yêu cầu giải quyết việc dân sự được ban hành kèm Nghị quyết 01/2017/NQ-HĐTP. Tuy nhiên, tại Nghị quyết này, Hội đồng Thẩm phán không yêu cầu đơn ly hôn phải sử dụng hình thức nào.
+
+Do đó, vợ, chồng muốn ly hôn, hoàn toàn có thể sử dụng đơn ly hôn viết tay, đánh máy, mua tại Tòa án hoặc download biểu mẫu trên mạng và tự in.",full,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Mua đơn ly hôn ở đâu?,1.5,location,easy,1,96
+Cho tôi biết hồ sơ cần chuẩn bị gồm những gì?,"* Kết hôn trong nước
+
+Theo Điều 18 Luật Hộ tịch 2014 quy định khi đăng ký kết hôn, hai bên nam, nữ cần chuẩn bị các giấy tờ sau:
+
+(1) Tờ khai đăng ký kết hôn, có thể dùng chung 1 tờ khai nếu nộp trực tiếp;
+
+(2) Giấy xác nhận tình trạng hôn nhân (bản chính) do UBND cấp xã có thẩm quyền cấp. Áp dụng với trường hợp người yêu cầu không đăng ký thường trú tại địa phương, thì cần giấy này để hoàn tất thủ tục đi đăng ký kết hôn;
+
+(3) Giấy tờ chứng minh nơi cư trú;
+
+(4) Trích lục ghi chú ly hôn (nếu có).
+* Kết hôn có yếu tố nước ngoài
+
+Căn cứ theo Điều 30 Nghị định 123/2015/NĐ-CP, hồ sơ cần chuẩn bị gồm:
+
+(1) Tờ khai đăng ký kết hôn (theo mẫu);
+
+(2) Hộ chiếu/ chứng minh nhân dân/ thẻ căn cước công dân còn hiệu lực;
+
+(3) Giấy xác nhận tình trạng hôn nhân (chứng minh hiện 02 bên đang chưa kết hôn, chưa có vợ/chồng) và xác nhận nơi cư trú.
+
+Trường hợp nước ngoài không cấp xác nhận tình trạng hôn nhân thì thay bằng giấy tờ do cơ quan có thẩm quyền nước ngoài xác nhận người đó có đủ điều kiện kết hôn theo pháp luật nước đó.
+
+Nếu giấy tờ chứng minh tình trạng hôn nhân của người nước ngoài không ghi thời hạn sử dụng thì giấy tờ này và giấy xác nhận của tổ chức y tế theo quy định tại khoản 1 Điều 38 Luật Hộ tịch 2014 chỉ có giá trị 06 tháng, kể từ ngày cấp.
+
+(5) Bản sao hộ chiếu, giấy tờ đi lại quốc tế hoặc thẻ cư trú.
+
+Ngoài ra, một số trường hợp còn cần chuẩn bị:
+
+(1) Trích lục ly hôn hoặc hủy kết hôn đối với người Việt Nam đã từng ly hôn hoặc hủy kết hôn (nếu có).
+
+(2) Văn bản xác nhận kết hôn không trái với quy định của ngành đối với công chức, viên chức hoặc quân đội vũ trang nếu có.
+
+(3) Giấy xác nhận không mắc bệnh tâm thần hoặc các bệnh không có khả năng nhận thức và tự làm chủ hành vi (1 bản gốc + 1 bản hợp pháp hóa lãnh sự và dịch thuật ra tiếng Việt).
+
+Cũng theo Nghị định 120/2025/NĐ-CP, việc kết hôn có yếu tố nước ngoài được thực hiện tại UBND cấp xã giống thủ tục kết hôn không có yếu tố nước ngoài. Theo đó, thẩm quyền này chính thức có hiệu lực từ ngày 01/7/2025 đến ngày 01/03/2027.",full,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,Hồ sơ cần chuẩn bị gồm những gì?,2.1,conditions,hard,1,443
+Hướng dẫn về điều kiện đăng ký kết hôn mới nhất?,"Theo khoản 13 Điều 3 Luật Hôn nhân và Gia đình 2014, thời kỳ hôn nhân là khoảng thời gian tồn tại quan hệ vợ chồng, được tính từ ngày đăng ký kết hôn đến ngày chấm dứt hôn nhân. Đồng thời, quan hệ vợ chồng chỉ được xác lập khi hai bên đăng ký kết hôn.
+
+Theo đó, khi đăng ký kết hôn, hai bên nam, nữ phải đáp ứng một số điều kiện nêu tại Điều 8 Luật Hôn nhân và Gia đình 2014 như:
+
+- Nam từ đủ 20 tuổi trở lên, nữ từ đủ 18 tuổi trở lên;
+
+- Việc kết hôn do hai bên tự nguyện quyết định;
+
+- Hai bên không bị mất năng lực hành vi dân sự;
+
+- Không thuộc các trường hợp bị cấm kết hôn như: Kết hôn giả tạo; Tảo hôn; cưỡng ép kết hôn; Người đang có vợ, có chồng mà kết hôn hoặc chung sống như vợ chồng với người khác; Kết hôn hoặc chung sống như vợ chồng giữa những người cùng dòng máu trực hệ;...
+
+Đặc biệt: Việc kết hôn phải được đăng ký và do cơ quan Nhà nước có thẩm quyền thực hiện. Nếu không đăng ký thì không có giá trị pháp lý.",full,ket_hon,Điều kiện đăng ký kết hôn mới nhất,1,,,conditions,medium,2,211
+Mình có thể đăng ký kết hôn  cấp mấy bản không?,"Theo khoản 7 Điều 4 Luật Hộ tịch, giấy chứng nhận kết hôn là văn bản do cơ quan Nhà nước có thẩm quyền cấp cho hai bên nam, nữ khi đăng ký kết hôn. Nếu hai bên nam, nữ đủ điều kiện kết hôn, sau khi nam, nữ cùng ký, ghi rõ họ tên trong Sổ hộ tịch, Giấy chứng nhận kết hôn, mỗi bên vợ, chồng được cấp 01 bản chính Giấy chứng nhận theo khoản 3 Điều 18 Nghị định 123/2015/NĐ-CP.",summary,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,Đăng ký kết hôn được cấp mấy bản?,2.5,general,medium,1,84
+Quy trình ly hôn như thế nào?,"- Đối với ly hôn đơn phương: Quy trình sẽ được thực hiện theo các bước sau đây:
+
+ Bước 1: Thụ lý đơn ly hôn (đơn khởi kiện). Vợ hoặc chồng - người muốn ly hôn đơn phương phải chuẩn bị đầy đủ hồ sơ, giấy tờ, tài liệu và chứng cứ về hành vi bạo lực gia đình (nếu có) của người còn lại để nộp cho Tòa án có thẩm quyền (đã nêu ở trên).
+
+Bước 2: Hòa giải. Sau khi nhận được đơn ly hôn đơn phương, Tòa án sẽ xem xét có nhận và thụ lý vụ án ly hôn không. Nếu xét thấy có căn cứ để xét đơn ly hôn đơn phương thì yêu cầu người nộp đơn nộp án phí tạm ứng và tiến hành hòa giải.
+
+Nếu hòa giải thành thì Tòa án ra quyết định công nhận hòa giải thành nếu không hòa giải được thì Tòa án đưa vụ án ra xét xử.
+
+Bước 3: Mở phiên tòa sơ thẩm. Sau khi xét xử, Tòa án sẽ ra bản án chấm dứt quan hệ hôn nhân giữa vợ và chồng.
+
+- Đối với ly hôn thuận tình: Ly hôn thuận tình sẽ được thực hiện theo các bước sau đây:
+
+Bước 1: Thụ lý đơn. Vợ và chồng chuẩn bị hồ sơ nêu trên và nộp hồ sơ đến Tòa án có thẩm quyền.
+
+Bước 2: Chuẩn bị xét đơn yêu cầu và mở phiên họp công khai để giải quyết việc yêu cầu công nhận thuận tình ly hôn. Trong giai đoạn này, Tòa án sẽ xem xét đơn ly hôn thuận tình, căn cứ để chấm dứt quan hệ hôn nhân và ra thông báo nộp lệ phí tạm ứng.
+
+Sau khi vợ, chồng nộp tạm ứng lệ phí thì Tòa án sẽ mở phiên họp công khai để giải quyết việc yêu cầu công nhận thuận tình ly hôn.
+
+Bước 3: Ra quyết định công nhận thuận tình ly hôn. Sau khi tiến hành hòa giải mà không thành thì Tòa án sẽ ra quyết định công nhận ly hôn. Ngược lại, nếu hòa giải thành thì Tòa án sẽ đình chỉ giải quyết việc dân sự.",full,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Quy trình ly hôn,1.7,procedure,hard,1,370
+Điều kiện để được yêu cầu ly hôn?,"Hiện nay, có hai hình thức ly hôn là ly hôn thuận tình và một bên gửi yêu cầu đơn phương ly hôn. Do đó, với mỗi loại hình thì sẽ yêu cầu điều kiện khác nhau. Cụ thể như sau:
+
+Điều kiện để ly hôn thuận tình
+
+- Hai bên thật sự tự nguyện ly hôn
+
+- Hai bên đã thỏa thuận về việc chia tài sản, quyền nuôi con, nghĩa vụ cấp dưỡng…
+
+Điều kiện để đơn phương ly hôn
+
+- Vợ, chồng có hành vi bạo lực gia đình
+
+- Khi một người vi phạm nghiêm trọng quyền, nghĩa vụ làm cho hôn nhân lâm vào tình trạng trầm trọng, đời sống chung không thể kéo dài;
+
+- Vợ hoặc chồng bị Tòa án tuyên bố mất tích;
+
+- Khi một người bị bệnh tâm thần hoặc bệnh khác đồng thời là nạn nhân của bạo lực gia đình do người còn lại gây nên.",full,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Điều kiện để được yêu cầu ly hôn,1.2,conditions,medium,1,158
+Mình muốn hỏi về quy trình ly hôn?,"- Đối với ly hôn đơn phương: Quy trình sẽ được thực hiện theo các bước sau đây:
+
+ Bước 1: Thụ lý đơn ly hôn (đơn khởi kiện). Vợ hoặc chồng - người muốn ly hôn đơn phương phải chuẩn bị đầy đủ hồ sơ, giấy tờ, tài liệu và chứng cứ về hành vi bạo lực gia đình (nếu có) của người còn lại để nộp cho Tòa án có thẩm quyền (đã nêu ở trên).
+
+Bước 2: Hòa giải. Sau khi nhận được đơn ly hôn đơn phương, Tòa án sẽ xem xét có nhận và thụ lý vụ án ly hôn không. Nếu xét thấy có căn cứ để xét đơn ly hôn đơn phương thì yêu cầu người nộp đơn nộp án phí tạm ứng và tiến hành hòa giải.
+
+Nếu hòa giải thành thì Tòa án ra quyết định công nhận hòa giải thành nếu không hòa giải được thì Tòa án đưa vụ án ra xét xử.
+
+Bước 3: Mở phiên tòa sơ thẩm. Sau khi xét xử, Tòa án sẽ ra bản án chấm dứt quan hệ hôn nhân giữa vợ và chồng.
+
+- Đối với ly hôn thuận tình: Ly hôn thuận tình sẽ được thực hiện theo các bước sau đây:
+
+Bước 1: Thụ lý đơn. Vợ và chồng chuẩn bị hồ sơ nêu trên và nộp hồ sơ đến Tòa án có thẩm quyền.
+
+Bước 2: Chuẩn bị xét đơn yêu cầu và mở phiên họp công khai để giải quyết việc yêu cầu công nhận thuận tình ly hôn. Trong giai đoạn này, Tòa án sẽ xem xét đơn ly hôn thuận tình, căn cứ để chấm dứt quan hệ hôn nhân và ra thông báo nộp lệ phí tạm ứng.
+
+Sau khi vợ, chồng nộp tạm ứng lệ phí thì Tòa án sẽ mở phiên họp công khai để giải quyết việc yêu cầu công nhận thuận tình ly hôn.
+
+Bước 3: Ra quyết định công nhận thuận tình ly hôn. Sau khi tiến hành hòa giải mà không thành thì Tòa án sẽ ra quyết định công nhận ly hôn. Ngược lại, nếu hòa giải thành thì Tòa án sẽ đình chỉ giải quyết việc dân sự.",full,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Quy trình ly hôn,1.7,procedure,hard,1,370
+Thủ tục đăng ký kết hôn mới nhất?,"Thủ tục đăng ký kết hôn mới nhất bao gồm:
+
+1. Hồ sơ cần chuẩn bị gồm những gì?: .
+
+2. Nộp hồ sơ đến đâu?: - Nếu nộp trực tuyến, người có yêu cầu có thể truy cập Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công cấp tỉnh.
+
+3. Thời gian cấp đăng ký kết hôn là bao lâu?: Giấy chứng nhận kết hôn được cấp ngay sau khi cán bộ tư pháp nhận được đầy đủ hồ sơ hợp lệ và xét thấy đủ điều kiện kết hôn theo quy định (theo Điều 18 Nghị định 123/2015/NĐ-CP).
+
+4. Lệ phí đăng ký kết hôn là bao nhiêu?: Nếu đăng ký kết hôn của công dân Việt Nam cư trú trong nước thì được miễn lệ phí đăng ký kết hôn theo quy định tại Điều 11 Luật Hộ tịch 2014.
+
+5. Đăng ký kết hôn được cấp mấy bản?: Theo khoản 7 Điều 4 Luật Hộ tịch, giấy chứng nhận kết hôn là văn bản do cơ quan Nhà nước có thẩm quyền cấp cho hai bên nam, nữ khi đăng ký kết hôn.",overview,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,,,general,medium,3,189
+Giải quyết nợ chung khi ly hôn như thế nào?,"Như phân tích ở trên, có hai hình thức ly hôn là ly hôn đơn phương và ly hôn thuận tình. Do đó, những vấn đề cần giải quyết của hai hình thức này cũng khác nhau. Tuy vậy, nhìn chung, khi các cặp vợ, chồng muốn chấm dứt quan hệ hôn nhân thường cũng muốn giải quyết vấn đề tài sản chung, con chung và một phần không thể thiếu là nợ chung.",summary,ly_hon,Giải quyết nợ chung khi ly hôn,4,,,general,medium,2,74
+Cho tôi biết ly hôn nhanh nhất là bao lâu?,"Cũng theo quy định của Bộ luật Tố tụng dân sự, thời gian giải quyết của một vụ ly hôn thuận tình kéo dài khoảng 02 - 03 tháng, kể từ ngày Tòa án thụ lý đơn. Trong trường hợp đơn phương ly hôn, thời gian giải quyết kéo dài hơn, có thể từ 04 - 06 tháng. Trên thực tế, do có thể phát sinh những tranh chấp về quyền nuôi con, về tài sản thì thời gian giải quyết còn có thể kéo dài hơn.",summary,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Ly hôn nhanh nhất là bao lâu?,1.6,duration,medium,1,87
+Tổng quan về thủ tục đăng ký kết hôn mới nhất?,"Thủ tục đăng ký kết hôn mới nhất bao gồm:
+
+1. Hồ sơ cần chuẩn bị gồm những gì?: .
+
+2. Nộp hồ sơ đến đâu?: - Nếu nộp trực tuyến, người có yêu cầu có thể truy cập Cổng dịch vụ công quốc gia hoặc Cổng dịch vụ công cấp tỉnh.
+
+3. Thời gian cấp đăng ký kết hôn là bao lâu?: Giấy chứng nhận kết hôn được cấp ngay sau khi cán bộ tư pháp nhận được đầy đủ hồ sơ hợp lệ và xét thấy đủ điều kiện kết hôn theo quy định (theo Điều 18 Nghị định 123/2015/NĐ-CP).
+
+4. Lệ phí đăng ký kết hôn là bao nhiêu?: Nếu đăng ký kết hôn của công dân Việt Nam cư trú trong nước thì được miễn lệ phí đăng ký kết hôn theo quy định tại Điều 11 Luật Hộ tịch 2014.
+
+5. Đăng ký kết hôn được cấp mấy bản?: Theo khoản 7 Điều 4 Luật Hộ tịch, giấy chứng nhận kết hôn là văn bản do cơ quan Nhà nước có thẩm quyền cấp cho hai bên nam, nữ khi đăng ký kết hôn.",overview,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,,,general,medium,3,189
+Xin hướng dẫn chia tài sản sau khi ly hôn thế nào?,"Về nguyên tắc, ly hôn là sự thỏa thuận của hai vợ chồng. Về tài sản sau khi ly hôn cũng tương tự như vậy. Nếu hai bên thỏa thuận được thì Tòa án sẽ công nhận sự thỏa thuận về tài sản của hai người. Trong trường hợp không thể thỏa thuận được, Tòa sẽ giải quyết theo hướng chia đôi nhưng có căn cứ vào các yếu tố sau:
+
+- Hoàn cảnh của gia đình và của vợ, chồng;
+
+- Công sức đóng góp của vợ, chồng vào việc tạo lập, duy trì và phát triển khối tài sản chung.",summary,ly_hon,Chia tài sản sau khi ly hôn thế nào?,2,,,general,medium,2,102
+Xin hướng dẫn ai có quyền yêu cầu ly hôn?,"Theo quy định của Luật Hôn nhân và Gia đình, ly hôn là việc chấm dứt quan hệ vợ chồng theo bản án, quyết định có hiệu lực pháp luật của Tòa án. Do đó, để được ly hôn, các cặp vợ, chồng phải xác định được ai là người có quyền yêu cầu ly hôn. Đồng thời, tại Điều 51 Luật Hôn nhân và gia đình năm 2014, người có quyền yêu cầu giải quyết ly hôn gồm:
+
+Vợ, chồng hoặc cả hai người có quyền yêu cầu Tòa án giải quyết ly hôn.",summary,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Ai có quyền yêu cầu ly hôn?,1.1,rights,medium,1,95
+Điều kiện đăng ký kết hôn mới nhất?,"Theo khoản 13 Điều 3 Luật Hôn nhân và Gia đình 2014, thời kỳ hôn nhân là khoảng thời gian tồn tại quan hệ vợ chồng, được tính từ ngày đăng ký kết hôn đến ngày chấm dứt hôn nhân. Đồng thời, quan hệ vợ chồng chỉ được xác lập khi hai bên đăng ký kết hôn.",summary,ket_hon,Điều kiện đăng ký kết hôn mới nhất,1,,,conditions,medium,2,57
+Đăng ký kết hôn được cấp mấy bản?,"Theo khoản 7 Điều 4 Luật Hộ tịch, giấy chứng nhận kết hôn là văn bản do cơ quan Nhà nước có thẩm quyền cấp cho hai bên nam, nữ khi đăng ký kết hôn.
+
+Nếu hai bên nam, nữ đủ điều kiện kết hôn, sau khi nam, nữ cùng ký, ghi rõ họ tên trong Sổ hộ tịch, Giấy chứng nhận kết hôn, mỗi bên vợ, chồng được cấp 01 bản chính Giấy chứng nhận theo khoản 3 Điều 18 Nghị định 123/2015/NĐ-CP.
+
+Như vậy, có thể thấy, đăng ký kết hôn sẽ được cấp thành 02 bản chính cho mỗi bên vợ, chồng giữ 01 bản.",full,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,Đăng ký kết hôn được cấp mấy bản?,2.5,general,medium,1,108
+Cho tôi biết ai có quyền yêu cầu ly hôn?,"Theo quy định của Luật Hôn nhân và Gia đình, ly hôn là việc chấm dứt quan hệ vợ chồng theo bản án, quyết định có hiệu lực pháp luật của Tòa án. Do đó, để được ly hôn, các cặp vợ, chồng phải xác định được ai là người có quyền yêu cầu ly hôn.
+
+Đồng thời, tại Điều 51 Luật Hôn nhân và gia đình năm 2014, người có quyền yêu cầu giải quyết ly hôn gồm:
+
+Vợ, chồng hoặc cả hai người có quyền yêu cầu Tòa án giải quyết ly hôn.
+
+Cha, mẹ, người thân thích khác có quyền yêu cầu Tòa án giải quyết ly hôn khi một bên vợ, chồng do bị bệnh tâm thần hoặc mắc bệnh khác mà không thể nhận thức, làm chủ được hành vi của mình, đồng thời là nạn nhân của bạo lực gia đình do chồng, vợ của họ gây ra làm ảnh hưởng nghiêm trọng đến tính mạng, sức khỏe, tinh thần của họ.
+
+Đáng lưu ý là, chồng không được ly hôn khi vợ đang có thai, sinh con hoặc đang nuôi con dưới 12 tháng tuổi. Nhưng nếu vợ đang có thai, sinh con hoặc nuôi con dưới 12 tháng tuổi thì người vợ có quyền được yêu cầu Tòa án cho ly hôn.
+
+Như vậy, người có quyền yêu cầu ly hôn có thể là chồng, là vợ hoặc người thứ ba như quy định nêu trên.",full,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Ai có quyền yêu cầu ly hôn?,1.1,rights,medium,1,244
+Điều kiện đăng ký kết hôn mới nhất?,"Theo khoản 13 Điều 3 Luật Hôn nhân và Gia đình 2014, thời kỳ hôn nhân là khoảng thời gian tồn tại quan hệ vợ chồng, được tính từ ngày đăng ký kết hôn đến ngày chấm dứt hôn nhân. Đồng thời, quan hệ vợ chồng chỉ được xác lập khi hai bên đăng ký kết hôn.
+
+Theo đó, khi đăng ký kết hôn, hai bên nam, nữ phải đáp ứng một số điều kiện nêu tại Điều 8 Luật Hôn nhân và Gia đình 2014 như:
+
+- Nam từ đủ 20 tuổi trở lên, nữ từ đủ 18 tuổi trở lên;
+
+- Việc kết hôn do hai bên tự nguyện quyết định;
+
+- Hai bên không bị mất năng lực hành vi dân sự;
+
+- Không thuộc các trường hợp bị cấm kết hôn như: Kết hôn giả tạo; Tảo hôn; cưỡng ép kết hôn; Người đang có vợ, có chồng mà kết hôn hoặc chung sống như vợ chồng với người khác; Kết hôn hoặc chung sống như vợ chồng giữa những người cùng dòng máu trực hệ;...
+
+Đặc biệt: Việc kết hôn phải được đăng ký và do cơ quan Nhà nước có thẩm quyền thực hiện. Nếu không đăng ký thì không có giá trị pháp lý.",full,ket_hon,Điều kiện đăng ký kết hôn mới nhất,1,,,conditions,medium,2,211
+Mình muốn hỏi mua đơn ly hôn ở đâu?,"Hiện nay, khi ly hôn đơn phương, vợ, chồng sử dụng mẫu đơn khởi kiện và khi ly hôn thuận tình, vợ, chồng sử dụng mẫu đơn yêu cầu giải quyết việc dân sự được ban hành kèm Nghị quyết 01/2017/NQ-HĐTP. Tuy nhiên, tại Nghị quyết này, Hội đồng Thẩm phán không yêu cầu đơn ly hôn phải sử dụng hình thức nào. Do đó, vợ, chồng muốn ly hôn, hoàn toàn có thể sử dụng đơn ly hôn viết tay, đánh máy, mua tại Tòa án hoặc download biểu mẫu trên mạng và tự in.",summary,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Mua đơn ly hôn ở đâu?,1.5,location,easy,1,96
+"Cho tôi biết mất đăng ký kết hôn, đăng ký lại được không?","Căn cứ Điều 24 Nghị định 123/2015/NĐ/CP quy định điều kiện đăng ký lại khai sinh, kết hôn, khai tử như sau:
+
+- Việc khai sinh, kết hôn, khai tử đã được đăng ký tại cơ quan có thẩm quyền của Việt Nam trước ngày 01/01/2016 nhưng Sổ hộ tịch và bản chính giấy tờ hộ tịch đều bị mất thì được đăng ký lại.
+
+- Người yêu cầu đăng ký lại khai sinh, kết hôn, khai tử có trách nhiệm nộp đầy đủ bản sao giấy tờ, tài liệu có nội dung liên quan đến việc đăng ký lại.
+
+- Việc đăng ký lại khai sinh, kết hôn chỉ được thực hiện nếu người yêu cầu đăng ký còn sống vào thời điểm tiếp nhận hồ sơ.
+
+Như vậy, mất giấy đăng ký kết hôn chỉ được xin cấp lại nếu đáp ứng đủ 2 điều kiện:
+
+- Đã đăng ký kết hôn tại cơ quan có thẩm quyền của Việt Nam trước ngày 01/01/2016.
+
+- Sổ đăng ký kết hôn tại cơ quan đăng ký hộ tịch và giấy đăng ký kết hôn của người yêu cầu cấp lại giấy đăng ký kết hôn đều bị mất.
+
+Trường hợp không đủ điều kiện thì UBND cấp xã sẽ từ chối cấp lại giấy đăng ký kết hôn và chỉ có thể xin cấp bản sao trích lục kết hôn.",full,ket_hon,"Mất đăng ký kết hôn, đăng ký lại được không?",6,,,general,medium,2,231
+Hướng dẫn về điều kiện để được yêu cầu ly hôn?,"Hiện nay, có hai hình thức ly hôn là ly hôn thuận tình và một bên gửi yêu cầu đơn phương ly hôn. Do đó, với mỗi loại hình thì sẽ yêu cầu điều kiện khác nhau.",summary,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Điều kiện để được yêu cầu ly hôn,1.2,conditions,medium,1,37
+Mình muốn hỏi hồ sơ cần chuẩn bị gồm những gì?,"* Kết hôn trong nước
+
+Theo Điều 18 Luật Hộ tịch 2014 quy định khi đăng ký kết hôn, hai bên nam, nữ cần chuẩn bị các giấy tờ sau:
+
+(1) Tờ khai đăng ký kết hôn, có thể dùng chung 1 tờ khai nếu nộp trực tiếp;
+
+(2) Giấy xác nhận tình trạng hôn nhân (bản chính) do UBND cấp xã có thẩm quyền cấp. Áp dụng với trường hợp người yêu cầu không đăng ký thường trú tại địa phương, thì cần giấy này để hoàn tất thủ tục đi đăng ký kết hôn;
+
+(3) Giấy tờ chứng minh nơi cư trú;
+
+(4) Trích lục ghi chú ly hôn (nếu có).
+* Kết hôn có yếu tố nước ngoài
+
+Căn cứ theo Điều 30 Nghị định 123/2015/NĐ-CP, hồ sơ cần chuẩn bị gồm:
+
+(1) Tờ khai đăng ký kết hôn (theo mẫu);
+
+(2) Hộ chiếu/ chứng minh nhân dân/ thẻ căn cước công dân còn hiệu lực;
+
+(3) Giấy xác nhận tình trạng hôn nhân (chứng minh hiện 02 bên đang chưa kết hôn, chưa có vợ/chồng) và xác nhận nơi cư trú.
+
+Trường hợp nước ngoài không cấp xác nhận tình trạng hôn nhân thì thay bằng giấy tờ do cơ quan có thẩm quyền nước ngoài xác nhận người đó có đủ điều kiện kết hôn theo pháp luật nước đó.
+
+Nếu giấy tờ chứng minh tình trạng hôn nhân của người nước ngoài không ghi thời hạn sử dụng thì giấy tờ này và giấy xác nhận của tổ chức y tế theo quy định tại khoản 1 Điều 38 Luật Hộ tịch 2014 chỉ có giá trị 06 tháng, kể từ ngày cấp.
+
+(5) Bản sao hộ chiếu, giấy tờ đi lại quốc tế hoặc thẻ cư trú.
+
+Ngoài ra, một số trường hợp còn cần chuẩn bị:
+
+(1) Trích lục ly hôn hoặc hủy kết hôn đối với người Việt Nam đã từng ly hôn hoặc hủy kết hôn (nếu có).
+
+(2) Văn bản xác nhận kết hôn không trái với quy định của ngành đối với công chức, viên chức hoặc quân đội vũ trang nếu có.
+
+(3) Giấy xác nhận không mắc bệnh tâm thần hoặc các bệnh không có khả năng nhận thức và tự làm chủ hành vi (1 bản gốc + 1 bản hợp pháp hóa lãnh sự và dịch thuật ra tiếng Việt).
+
+Cũng theo Nghị định 120/2025/NĐ-CP, việc kết hôn có yếu tố nước ngoài được thực hiện tại UBND cấp xã giống thủ tục kết hôn không có yếu tố nước ngoài. Theo đó, thẩm quyền này chính thức có hiệu lực từ ngày 01/7/2025 đến ngày 01/03/2027.",full,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,Hồ sơ cần chuẩn bị gồm những gì?,2.1,conditions,hard,1,443
+Mình muốn hỏi về điều kiện đăng ký kết hôn mới nhất?,"Theo khoản 13 Điều 3 Luật Hôn nhân và Gia đình 2014, thời kỳ hôn nhân là khoảng thời gian tồn tại quan hệ vợ chồng, được tính từ ngày đăng ký kết hôn đến ngày chấm dứt hôn nhân. Đồng thời, quan hệ vợ chồng chỉ được xác lập khi hai bên đăng ký kết hôn.
+
+Theo đó, khi đăng ký kết hôn, hai bên nam, nữ phải đáp ứng một số điều kiện nêu tại Điều 8 Luật Hôn nhân và Gia đình 2014 như:
+
+- Nam từ đủ 20 tuổi trở lên, nữ từ đủ 18 tuổi trở lên;
+
+- Việc kết hôn do hai bên tự nguyện quyết định;
+
+- Hai bên không bị mất năng lực hành vi dân sự;
+
+- Không thuộc các trường hợp bị cấm kết hôn như: Kết hôn giả tạo; Tảo hôn; cưỡng ép kết hôn; Người đang có vợ, có chồng mà kết hôn hoặc chung sống như vợ chồng với người khác; Kết hôn hoặc chung sống như vợ chồng giữa những người cùng dòng máu trực hệ;...
+
+Đặc biệt: Việc kết hôn phải được đăng ký và do cơ quan Nhà nước có thẩm quyền thực hiện. Nếu không đăng ký thì không có giá trị pháp lý.",full,ket_hon,Điều kiện đăng ký kết hôn mới nhất,1,,,conditions,medium,2,211
+Điều kiện để được yêu cầu ly hôn như thế nào?,"Hiện nay, có hai hình thức ly hôn là ly hôn thuận tình và một bên gửi yêu cầu đơn phương ly hôn. Do đó, với mỗi loại hình thì sẽ yêu cầu điều kiện khác nhau.",summary,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Điều kiện để được yêu cầu ly hôn,1.2,conditions,medium,1,37
+Mình muốn hỏi về vấn đề nộp án phí khi ly hôn?,"Theo Nghị quyết 326/2016/NQ-UBTVQH14, mức án phí khi ly hôn cụ thể như sau:
+
+- Án phí cho một vụ việc ly hôn không có tranh chấp về tài sản là 300.000 đồng;
+
+- Đối với những vụ việc có tranh chấp về tài sản thì ngoài mức án phí 300.000 đồng, đương sự còn phải chịu án phí với phần tài sản có tranh chấp, được xác định theo giá trị tài sản tranh chấp.",full,ly_hon,Vấn đề nộp án phí khi ly hôn,5,,,location,easy,2,76
+Cho tôi biết chuẩn bị các loại giấy tờ gì để ly hôn?,"Về cơ bản thì các loại giấy tờ dùng trong trường hợp đơn phương ly hôn hoặc thuận tình ly hôn đều giống nhau. Những giấy tờ cần thiết gồm:
+
+Đơn yêu cầu ly hôn (thuận tình hoặc đơn phương);
+Giấy đăng ký kết hôn (bản chính);
+Căn cước công dân/thẻ Căn cước của vợ và chồng (bản sao có chứng thực);
+Giấy khai sinh của các con (nếu có con chung, bản sao có chứng thực);
+Giấy tờ chứng minh quyền sở hữu đối với tài sản chung (nếu có tài sản chung, bản sao có chứng thực).",summary,ly_hon,Hướng dẫn chi tiết thủ tục ly hôn,1,Chuẩn bị các loại giấy tờ gì để ly hôn?,1.3,documents,medium,1,99
+Thời gian cấp đăng ký kết hôn là bao lâu?,"Giấy chứng nhận kết hôn được cấp ngay sau khi cán bộ tư pháp nhận được đầy đủ hồ sơ hợp lệ và xét thấy đủ điều kiện kết hôn theo quy định (theo Điều 18 Nghị định 123/2015/NĐ-CP).
+
+Nếu thấy đủ điều kiện kết hôn, Điều 18 Luật Hộ tịch 2014 nêu rõ, cán bộ tư pháp ghi việc kết hôn vào Sổ hộ tịch. Hai bên nam nữ ký tên vào Sổ hộ tịch và Giấy chứng nhận đăng ký kết hôn.
+
+Đồng thời hai bên nam, nữ cùng ký vào Sổ đăng ký kết hôn và Giấy chứng nhận đăng ký kết hôn. Sau đó, cán bộ tư pháp báo cáo Chủ tịch UBND cấp xã trao Giấy chứng nhận kết hôn cho hai bên nam, nữ.
+
+Trong trường hợp nếu cần xác minh thêm các điều kiện kết hôn của hai bên nam, nữ thì thời hạn cấp Giấy chứng nhận kết hôn không quá 05 ngày làm việc.
+
+Do đó, có thể thấy thời hạn cấp Giấy đăng ký kết hôn là ngay sau khi hai bên được xét đủ điều kiện kết hôn và được UBND nơi có thẩm quyền thực hiện đăng ký kết hôn cấp Giấy chứng nhận đăng ký kết hôn.
+
+Riêng trường hợp có yếu tố nước ngoài, Sau khi ký Giấy chứng nhận đăng ký kết hôn, cán bộ làm công tác hộ tịch sẽ hướng dẫn hai bên kiểm tra nội dung trong Giấy chứng nhận kết hôn và Sổ đăng ký kết hôn. Thời gian từ lúc tiếp nhận đủ hồ sơ đến lúc nhận Giấy chứng nhận tối đa 13 ngày làm việc
+
+Đặc biệt: Nếu trong 60 ngày kể từ ngày ký mà hai bên không thể có mặt để nhận giấy chứng nhận đăng ký kết hôn thì Giấy này sẽ bị hủy. Nếu hai bên vẫn muốn kết hôn thì phải thực hiện thủ tục lại từ đầu.",full,ket_hon,Thủ tục đăng ký kết hôn mới nhất,2,Thời gian cấp đăng ký kết hôn là bao lâu?,2.3,duration,hard,1,325
